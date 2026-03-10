@@ -1,0 +1,4093 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: Conexão 7577
+    Whatsapp Id: 2
+    Criação do arquivo de logs: 16/12/2025 18:43:18
+    Selecionado Data de inicio de importação: 13/12/2025 00:00:00 
+    Selecionado Data final da importação: 16/12/2025 18:36:00 
+     
+
+Mensagem 1 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A52C70F10A3C19A07E5D41BD4AC52D31"
+  },
+  "message": {
+    "conversation": "Pão Panceta beterraba",
+    "messageContextInfo": {
+      "messageSecret": "WbppAwvgiuTUeiUOlWqhchUt/ZEGc9CJRfvX3+g6xN0="
+    }
+  },
+  "messageTimestamp": "1765914056",
+  "messageSecret": "WbppAwvgiuTUeiUOlWqhchUt/ZEGc9CJRfvX3+g6xN0=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ779yE3WZX/MMTkvoxSAjNQ7bo="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "236992705114112@lid",
+    "fromMe": false,
+    "id": "3EB02CB4B6052FA6828366"
+  },
+  "message": {
+    "conversation": "_*#Geibson Braga:*_\nComo posso lhe ajudar?"
+  },
+  "messageTimestamp": "1765905177",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ65SbkAj5+GmZ7R0FVgtg=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "236992705114112@lid",
+    "fromMe": false,
+    "id": "3EB05C9D38070644509622"
+  },
+  "message": {
+    "conversation": "_*#Geibson Braga:*_\nOlá Boa tarde, tudo bem?"
+  },
+  "messageTimestamp": "1765905174",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7J3U21jMbttBT9nAdwhQ=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 4 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0BDB4E61EA7CDE7F2CE"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://www.apowersoft.com.br/record-all-screen",
+      "matchedText": "https://www.apowersoft.com.br/record-all-screen",
+      "description": "O ApowerREC é um gravador de vídeo multi-plataforma que pode ser usado para gravar qualquer coisa exibida na tela de dispositivos Windows, Mac, Android e iOS.",
+      "title": "ApowerREC – O Melhor Gravador de Tela para PC e Aparelhos Móveis",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "vi2irdcqPC5ploZ58Kly2B0KtMl2o6B09vduvQ+W4hA="
+    }
+  },
+  "messageTimestamp": "1765903151",
+  "messageSecret": "vi2irdcqPC5ploZ58Kly2B0KtMl2o6B09vduvQ+W4hA=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5hl/Jzqm2HvIuF0jUGsPMhkxA="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC952B305A92F40641A43EFA6AC18163"
+  },
+  "message": {
+    "conversation": "🤣 🤣 🤣 🤣 🤣",
+    "messageContextInfo": {
+      "messageSecret": "um/A4RDTmnUhAuBtQ4tSSG+Cmz982fDF4l1W+ZrkiY4="
+    }
+  },
+  "messageTimestamp": "1765903036",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765903036",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "um/A4RDTmnUhAuBtQ4tSSG+Cmz982fDF4l1W+ZrkiY4=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACE63E46FBB350CA63BC4FF0EF8F4948"
+  },
+  "message": {
+    "conversation": "Mesmo video",
+    "messageContextInfo": {
+      "messageSecret": "ZRWCQu1PmOdoUrN+4kKBGpwsuq3cmfi14oorT/bURVk="
+    }
+  },
+  "messageTimestamp": "1765903034",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765903034",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "ZRWCQu1PmOdoUrN+4kKBGpwsuq3cmfi14oorT/bURVk=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACA3A652D2558D13C89C282D6C615F35"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Acabei de baixar esse",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB075AC9555DB083F55AE",
+        "participant": "252896297893914@lid",
+        "quotedMessage": {
+          "conversation": "https://www.videosoftdev.com/free-screen-recorder"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "RR2LGQeXhf4k6AwyYn8/GdZbeFfwXhXwTjCjTJkl92o="
+    }
+  },
+  "messageTimestamp": "1765903028",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765903028",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "RR2LGQeXhf4k6AwyYn8/GdZbeFfwXhXwTjCjTJkl92o=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB06BCC20C5FC44ADE670"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://www.youtube.com/watch?v=nL7JODHhT0A",
+      "matchedText": "https://www.youtube.com/watch?v=nL7JODHhT0A",
+      "description": "Gravador de TELA para PC FRACO GRATUITO - O MELHOR - Um ótimo gravador de tela gratuito para PC e Notebook Fraco com vários recursos nele, veja o passo a pas...",
+      "title": "Gravador de TELA para PC FRACO GRATUITO - O MELHOR",
+      "previewType": "VIDEO",
+      "jpegThumbnail": "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",
+      "thumbnailDirectPath": "/v/t62.36144-24/552119487_1600519934614617_5729461859352426418_n.enc?ccb=11-4&oh=01_Q5Aa3QG3kFlmKGATCu-BGy1YBhtnqR1oxJjvra-jsat1BTV0UA&oe=696904D6&_nc_sid=5e03e0",
+      "thumbnailSha256": "FCFQ+RJIzSHjb/sBZlgNraTiRMJhZS6Mw8gziWij2jc=",
+      "thumbnailEncSha256": "vt20pZE70RJKDN4bjdQLgs+COQLb1F91V0Q+yk1O9ao=",
+      "mediaKey": "AOIYQxv9aQco7qTGW1CN4M/x00Z66tFME257tY2bl0k=",
+      "mediaKeyTimestamp": "1765903018161",
+      "thumbnailHeight": 576,
+      "thumbnailWidth": 1024,
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "laGz3KEA7zol4siHGP+IGgrm4XhVuoiohEA3qksEgQk="
+    }
+  },
+  "messageTimestamp": "1765903022",
+  "messageSecret": "laGz3KEA7zol4siHGP+IGgrm4XhVuoiohEA3qksEgQk=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5ee475I/6ZCy5pitQcsWQzUQo="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB075AC9555DB083F55AE"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://www.videosoftdev.com/free-screen-recorder",
+      "matchedText": "https://www.videosoftdev.com/free-screen-recorder",
+      "description": "📹VSDC Free Screen Recorder is one of the best watermark-free screen recording tools for PC. Download it now to capture gameplay, create tutorials and record presentations in the highest quality on any PC or laptop absolutely free!",
+      "title": "Download VSDC Free Screen Recorder For PC | VSDC",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "86Hx2jVLN3XR5uNKsB7ejBCvY4qagNf5IoqWaOz9NNE="
+    }
+  },
+  "messageTimestamp": "1765903005",
+  "messageSecret": "86Hx2jVLN3XR5uNKsB7ejBCvY4qagNf5IoqWaOz9NNE=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7RRZUUNFTZzj7MEuJJv0SHym0="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB076E5A2C5AAA89CF5D5"
+  },
+  "message": {
+    "conversation": "Testa esse aqui",
+    "messageContextInfo": {
+      "messageSecret": "stgru+GIdiUTwYmZj+gsPW7+eaE3vGmfwsrEcQ0EjCI="
+    }
+  },
+  "messageTimestamp": "1765903001",
+  "messageSecret": "stgru+GIdiUTwYmZj+gsPW7+eaE3vGmfwsrEcQ0EjCI=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ733zyEizILjGxJXgsc4z4RsRo="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0559C45D923637722F2"
+  },
+  "message": {
+    "conversation": "Oi pai",
+    "messageContextInfo": {
+      "messageSecret": "cZmDHxqeuGDWX1DinhDoGpQrl+s7g/jGfifeazFXbdg="
+    }
+  },
+  "messageTimestamp": "1765902998",
+  "messageSecret": "cZmDHxqeuGDWX1DinhDoGpQrl+s7g/jGfifeazFXbdg=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5GJz+U1TvbB3tfjpVs4nvXntI="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC1425AAE71503F9B8E5E65044122953"
+  },
+  "message": {
+    "messageContextInfo": {
+      "messageSecret": "XZOZoTQZO55FY08BlOq+Cuwd1QwXHyd2QW+aqgUVrfY="
+    },
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "554399894344@s.whatsapp.net",
+            "fromMe": true,
+            "id": "AC7CEB1CA1888D40156B7DE092E52955"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "conversation": "Conhece algum gravador de tela de PC bom e free?"
+          },
+          "timestampMs": "1765902408809"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1765902401",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1765902408",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765902409",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "XZOZoTQZO55FY08BlOq+Cuwd1QwXHyd2QW+aqgUVrfY=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC5A670E9D57239FE7DB9A5BD7016C84"
+  },
+  "message": {
+    "conversation": "Filho",
+    "messageContextInfo": {
+      "messageSecret": "kKoZ6INr/2wVUBrGmoAVbuiucKHIkDQR1JY2VAxvsNk="
+    }
+  },
+  "messageTimestamp": "1765902385",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765902386",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "kKoZ6INr/2wVUBrGmoAVbuiucKHIkDQR1JY2VAxvsNk=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB015F105315FCA9D22D3"
+  },
+  "message": {
+    "conversation": "Bom dia\n\n[1] Vendas\n[2] Administrativo\n"
+  },
+  "messageTimestamp": "1765888125",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7lFaDxhQSY6OojOiAKHg=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC736A993F770E2B5AE3A5B79B4D847C"
+  },
+  "message": {
+    "conversation": "Oi",
+    "messageContextInfo": {
+      "messageSecret": "pA+jsaNmUw++Cf5fejnhkYts6BzxfsHMCNvui/JtU9Y="
+    }
+  },
+  "messageTimestamp": "1765888124",
+  "status": "READ",
+  "messageC2STimestamp": "1765888125",
+  "userReceipt": [
+    {
+      "userJid": "554391578426@s.whatsapp.net",
+      "receiptTimestamp": "1765888125",
+      "readTimestamp": "1765888838",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "pA+jsaNmUw++Cf5fejnhkYts6BzxfsHMCNvui/JtU9Y=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0828FD7F197E6D78708"
+  },
+  "message": {
+    "conversation": "Estamos em ferias coletivas"
+  },
+  "messageTimestamp": "1765886111",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5YeNLMcoKeXlYYWJ6l3g=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 17 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC3CEF367BD64F82984E32E76658BAFA"
+  },
+  "message": {
+    "conversation": "Oi",
+    "messageContextInfo": {
+      "messageSecret": "sDwUok3NTZJaCT3me1Makt2VQOavGYbJ/cD4i0hmhv4="
+    }
+  },
+  "messageTimestamp": "1765886110",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "554391578426@s.whatsapp.net",
+      "receiptTimestamp": "1765886110",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "sDwUok3NTZJaCT3me1Makt2VQOavGYbJ/cD4i0hmhv4=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 18 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC6AE149EEB206D18939F6DEC298C9CD"
+  },
+  "message": {
+    "conversation": "Precisa não",
+    "messageContextInfo": {
+      "messageSecret": "+0QBM+NXoIDphrEnf5LzjU5GQFb7+W0HPWZ6gwGKZTQ="
+    }
+  },
+  "messageTimestamp": "1765886100",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765886100",
+      "readTimestamp": "1765886255",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "+0QBM+NXoIDphrEnf5LzjU5GQFb7+W0HPWZ6gwGKZTQ=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 19 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC0B6FCDFB6DDCA4582CFD1E64405CBE"
+  },
+  "message": {
+    "conversation": "Tranquilo",
+    "messageContextInfo": {
+      "messageSecret": "BXmKiQ8KTW54tctGftYcvYF+No/hEqZsz95lmre7jNc="
+    }
+  },
+  "messageTimestamp": "1765886095",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765886095",
+      "readTimestamp": "1765886255",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "BXmKiQ8KTW54tctGftYcvYF+No/hEqZsz95lmre7jNc=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 20 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB017469B88BA31D85B20"
+  },
+  "message": {
+    "conversation": "mas posso dar uma procurada depois das 18 hrs",
+    "messageContextInfo": {
+      "messageSecret": "chfaH4dMaYSKnUndWq81tjxI3tmPq1wMxypFiCAVuLo="
+    }
+  },
+  "messageTimestamp": "1765885944",
+  "messageSecret": "chfaH4dMaYSKnUndWq81tjxI3tmPq1wMxypFiCAVuLo=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4Vj+HouZycDgRZnBifGS5od1M="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 21 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0AC6CF47097EC5DFB68"
+  },
+  "message": {
+    "conversation": "Um dia vc já perguntou, eu não achei em casa, quando vc levou estava tudo junto.",
+    "messageContextInfo": {
+      "messageSecret": "iHSrSNa+7Cc9avmRixaJ0nRQgcENR2GW3zZSB991Fcc="
+    }
+  },
+  "messageTimestamp": "1765885928",
+  "messageSecret": "iHSrSNa+7Cc9avmRixaJ0nRQgcENR2GW3zZSB991Fcc=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ52/9US5bOVND32bMAt6XseDOg="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 22 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC2A6DBBC6224405622041D02A653CD3"
+  },
+  "message": {
+    "conversation": "Um que é uma ponta?",
+    "messageContextInfo": {
+      "messageSecret": "Lxxp9GU9YsIScbINnCjDb6ezrey2p26SDg5dCvw6FZY="
+    }
+  },
+  "messageTimestamp": "1765885872",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765885872",
+      "readTimestamp": "1765885872",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "Lxxp9GU9YsIScbINnCjDb6ezrey2p26SDg5dCvw6FZY=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 23 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC0E19A746F55AE90A33558AEBF51DE3"
+  },
+  "message": {
+    "conversation": "Não tem uma pecinha daquele massageador que te enprestrei aquele dia",
+    "messageContextInfo": {
+      "messageSecret": "M3ideuC+qi9X2xQJ4f24CaIpYEZmM7/UsZUg5FtwcsA="
+    }
+  },
+  "messageTimestamp": "1765885862",
+  "status": "READ",
+  "messageC2STimestamp": "1765885863",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765885863",
+      "readTimestamp": "1765885863",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "M3ideuC+qi9X2xQJ4f24CaIpYEZmM7/UsZUg5FtwcsA=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 24 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB01325C0AEEFC9288A19"
+  },
+  "message": {
+    "conversation": "Bom dia",
+    "messageContextInfo": {
+      "messageSecret": "uR6CQ9wSpQI5kN5IBijhLWp3ilVC22OmyI1+xSWD+oI="
+    }
+  },
+  "messageTimestamp": "1765885836",
+  "messageSecret": "uR6CQ9wSpQI5kN5IBijhLWp3ilVC22OmyI1+xSWD+oI=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ44v2kFurLy8/63YbzWNbWhwVA="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 25 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACC4AF4100FEEF35A75D5AA23C9495DD"
+  },
+  "message": {
+    "conversation": "Bom. Día",
+    "messageContextInfo": {
+      "messageSecret": "qXRB0DuLzWTsbIU8ymesBW+/PDWMluorp9oOWNBghso="
+    }
+  },
+  "messageTimestamp": "1765885831",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765885831",
+      "readTimestamp": "1765885863",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "qXRB0DuLzWTsbIU8ymesBW+/PDWMluorp9oOWNBghso=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 26 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC1D35BF28E557AA4FFAF85FDA2D9153"
+  },
+  "message": {
+    "conversation": "Oi",
+    "messageContextInfo": {
+      "messageSecret": "oGjlbY5+VQtaYWLJxrcqVq/hgYIrKCQUFG9WmyaM7ws="
+    }
+  },
+  "messageTimestamp": "1765885818",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765885819",
+      "readTimestamp": "1765885831",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "oGjlbY5+VQtaYWLJxrcqVq/hgYIrKCQUFG9WmyaM7ws=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 27 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC336F36CE6EBF1AA27FE731111B56C3"
+  },
+  "message": {
+    "conversation": "Você tmbm filho",
+    "messageContextInfo": {
+      "messageSecret": "RDzyFeM93zmbXPgJOKmXAvX4oIKgokEG+bfPlDHOey4="
+    }
+  },
+  "messageTimestamp": "1765848830",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1765848831",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765848831",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "RDzyFeM93zmbXPgJOKmXAvX4oIKgokEG+bfPlDHOey4=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 28 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC249ACC44D323B1F48EB1A1F94823FB"
+  },
+  "message": {
+    "conversation": "até amanhã ❤️",
+    "messageContextInfo": {
+      "messageSecret": "sX0bQZdBlDuyVbTeGmn6K5hty61Llz27GW+8P+Ojnzw="
+    }
+  },
+  "messageTimestamp": "1765848791",
+  "messageSecret": "sX0bQZdBlDuyVbTeGmn6K5hty61Llz27GW+8P+Ojnzw=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7Q4z8iK1vdbO4Ph3WjzSpnX98="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 29 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ACC4451E8EDAAB5784A80BDA0376195E"
+  },
+  "message": {
+    "conversation": "Amém, dorme com Deus também",
+    "messageContextInfo": {
+      "messageSecret": "D/h0AWGK00cVTXLW5INjFvOpUi/x69HWxiSTr/26J4E="
+    }
+  },
+  "messageTimestamp": "1765848786",
+  "messageSecret": "D/h0AWGK00cVTXLW5INjFvOpUi/x69HWxiSTr/26J4E=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5Vneevj3MGQ5u6rqrG31376oM="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 30 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACE34E2965EFAF92563FC23355B94813"
+  },
+  "message": {
+    "conversation": "Ou melhor de todo universo",
+    "messageContextInfo": {
+      "messageSecret": "oehfrVmfbuo1DpbRd+apxyDmYnvYcgdsbfpYI7y1UmM="
+    }
+  },
+  "messageTimestamp": "1765848569",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765848570",
+      "readTimestamp": "1765848772",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "252896297893914@lid",
+        "fromMe": false,
+        "id": "ACE15E17343157CB1978277CEB3054F2"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1765848777057"
+    }
+  ],
+  "messageSecret": "oehfrVmfbuo1DpbRd+apxyDmYnvYcgdsbfpYI7y1UmM=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 31 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACEDEF9067073CED46C908EFDB66B1FC"
+  },
+  "message": {
+    "conversation": "Você é o melhor do mundo em todos os sentidos",
+    "messageContextInfo": {
+      "messageSecret": "csDrvYQXzTdC7deX0fDSE0R0lYlyCDzhNlyv+SPqYQA="
+    }
+  },
+  "messageTimestamp": "1765848556",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765848557",
+      "readTimestamp": "1765848772",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "252896297893914@lid",
+        "fromMe": false,
+        "id": "AC2DA70D6D090DCAE55D7599808A1E17"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1765848775124"
+    }
+  ],
+  "messageSecret": "csDrvYQXzTdC7deX0fDSE0R0lYlyCDzhNlyv+SPqYQA=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 32 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACF8E4D086D37F388E97ADF86F4864F1"
+  },
+  "message": {
+    "conversation": "Que Ele continue lhe abençoando grandemente",
+    "messageContextInfo": {
+      "messageSecret": "k678Mhk2i2MnM8/S8MVrbABeyJfV92+Kzc6CsZOQUj4="
+    }
+  },
+  "messageTimestamp": "1765848545",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765848545",
+      "readTimestamp": "1765848772",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "252896297893914@lid",
+        "fromMe": false,
+        "id": "AC89239664DB5CFFD9A502E8E4DE39E3"
+      },
+      "text": "🙏",
+      "senderTimestampMs": "1765848779260"
+    }
+  ],
+  "messageSecret": "k678Mhk2i2MnM8/S8MVrbABeyJfV92+Kzc6CsZOQUj4=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 33 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC19002F1FC0652949201CF1714575A4"
+  },
+  "message": {
+    "messageContextInfo": {
+      "messageSecret": "5V1CGQwCCiQVwuVUKrL7XWSlf/J0dcwyIbP2CE+jogs="
+    },
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "554399894344@s.whatsapp.net",
+            "fromMe": true,
+            "id": "ACAA68ADDFD7CF461D4798DA21124A2B"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "conversation": "Dorme com Deus"
+          },
+          "timestampMs": "1765848532818"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1765848525",
+  "status": "READ",
+  "messageC2STimestamp": "1765848532",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765848533",
+      "readTimestamp": "1765848772",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "5V1CGQwCCiQVwuVUKrL7XWSlf/J0dcwyIbP2CE+jogs=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 34 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC469F6CF753B40350C8377A53AF7775"
+  },
+  "message": {
+    "conversation": "vamos sim",
+    "messageContextInfo": {
+      "messageSecret": "h9UqDX41jRIozFZlBz42H57ZBd1m8aZJ0zCwlw/c9To="
+    }
+  },
+  "messageTimestamp": "1765848512",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "252896297893914@lid",
+        "fromMe": true,
+        "id": "AC290BE7351FBAD14DE05D29D7EB0AFF"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1765848516339",
+      "unread": true
+    }
+  ],
+  "messageSecret": "h9UqDX41jRIozFZlBz42H57ZBd1m8aZJ0zCwlw/c9To=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4yoKLUmp5miT7Z87ifJyZ4xRs="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 35 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC51BD491DEC2CD8B515F155D4BD2838"
+  },
+  "message": {
+    "conversation": "Vamos tomar café juntos essa semana",
+    "messageContextInfo": {
+      "messageSecret": "iswXmKrFnIZfmd/moXWXMvUsd48LJ7Z/Cv4ArB0E+cw="
+    }
+  },
+  "messageTimestamp": "1765848498",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765848499",
+      "readTimestamp": "1765848512",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "iswXmKrFnIZfmd/moXWXMvUsd48LJ7Z/Cv4ArB0E+cw=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 36 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC2F52BF303334E894E79A79A7546AE5"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "tbm te te amo muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "ACF0A51FB6D41925ABD1B4576CF377CA",
+        "participant": "554391537577@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Te amo"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "MsNlrGOFIbbtjt0JLCcSD5giSczEKnXOUYRueasuCgc="
+    }
+  },
+  "messageTimestamp": "1765848467",
+  "messageSecret": "MsNlrGOFIbbtjt0JLCcSD5giSczEKnXOUYRueasuCgc=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7JnT5xzKXOiDym6NHwenRGaTY="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 37 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ACAF778CA4273177DB29F2E53D697FB4"
+  },
+  "message": {
+    "conversation": "Passei a guarda do rafa hoje de novo",
+    "messageContextInfo": {
+      "messageSecret": "Bzvyu8a8FEpPTvYOa+HickJHOgmD87R5dYVZMrV+GZE="
+    }
+  },
+  "messageTimestamp": "1765848463",
+  "messageSecret": "Bzvyu8a8FEpPTvYOa+HickJHOgmD87R5dYVZMrV+GZE=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ6mwW1wX4Lh+blxRjzwEqIMht0="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 38 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACF0A51FB6D41925ABD1B4576CF377CA"
+  },
+  "message": {
+    "conversation": "Te amo",
+    "messageContextInfo": {
+      "messageSecret": "QV7INjacKEj47/bgsX1pYROC8kvLm0tSjPJ6DutW6uM="
+    }
+  },
+  "messageTimestamp": "1765848458",
+  "status": "READ",
+  "messageC2STimestamp": "1765848459",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1765848459",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "QV7INjacKEj47/bgsX1pYROC8kvLm0tSjPJ6DutW6uM=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC520B1D3CB19D4E3DCEF100E0A2CF74"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Ok, obrigado",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "ACEF4136B5FB80BEF69473A6E7FFF343",
+        "participant": "554391537577@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Amanhã cedo levo pra vc"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "a03FP9QNM81U8YyEU8y0VwI7fBi7tar5iwMroYRxy14="
+    }
+  },
+  "messageTimestamp": "1765848446",
+  "messageSecret": "a03FP9QNM81U8YyEU8y0VwI7fBi7tar5iwMroYRxy14=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7i1O1zK8aPCWDcDy4dVNeHdVI="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 39 de 138
+               
+
+Mensagem 40 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ACF8AEE99CF32C36E36173F682083853"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Vish verdade",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "ACFDEF61098B7AB7753D78DA536DCA8A",
+        "participant": "554391537577@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Esqueceu a manga filho"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "GEyk/t++S+UushDWhljm8uuKuR93M/UyXYVJ0gp+170="
+    }
+  },
+  "messageTimestamp": "1765848442",
+  "messageSecret": "GEyk/t++S+UushDWhljm8uuKuR93M/UyXYVJ0gp+170=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ65emX52UkJhVtrrqXvCMwZpxU="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 41 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACEF4136B5FB80BEF69473A6E7FFF343"
+  },
+  "message": {
+    "conversation": "Amanhã cedo levo pra vc",
+    "messageContextInfo": {
+      "messageSecret": "z35WcbpZ5xb9sC0SVvnPzO0LmKgKOcWlXarRx6Yugpg="
+    }
+  },
+  "messageTimestamp": "1765848420",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765848420",
+      "readTimestamp": "1765848436",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "z35WcbpZ5xb9sC0SVvnPzO0LmKgKOcWlXarRx6Yugpg=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 42 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACFDEF61098B7AB7753D78DA536DCA8A"
+  },
+  "message": {
+    "conversation": "Esqueceu a manga filho",
+    "messageContextInfo": {
+      "messageSecret": "bEwFOd506yeqcBPS9NT/ssen4upeuwmEcNb8KaAgtdg="
+    }
+  },
+  "messageTimestamp": "1765848412",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765848415",
+      "readTimestamp": "1765848436",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "bEwFOd506yeqcBPS9NT/ssen4upeuwmEcNb8KaAgtdg=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 43 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACA776C2E096872F1E3C78F8ECD01F10"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Ok",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "AC9462F5F971C23D100DF3E00921C474",
+        "participant": "252896297893914@lid",
+        "quotedMessage": {
+          "conversation": "Acho que vou atrasar um pouco"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "TxGvXV00EDDzwDENOOHoJkQ+9SEjXbOPIxKDUzXg6sU="
+    }
+  },
+  "messageTimestamp": "1765832888",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765832888",
+      "readTimestamp": "1765843914",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "TxGvXV00EDDzwDENOOHoJkQ+9SEjXbOPIxKDUzXg6sU=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 44 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC0BABF278043A5319CDA13899C15613"
+  },
+  "message": {
+    "conversation": "Oi filho",
+    "messageContextInfo": {
+      "messageSecret": "2EREgH0Hbh0HTxj6HeHtdlY3GsqmC5/0lPxFPusd70w="
+    }
+  },
+  "messageTimestamp": "1765832880",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765832880",
+      "readTimestamp": "1765843914",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "2EREgH0Hbh0HTxj6HeHtdlY3GsqmC5/0lPxFPusd70w=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 45 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC9462F5F971C23D100DF3E00921C474"
+  },
+  "message": {
+    "conversation": "Acho que vou atrasar um pouco",
+    "messageContextInfo": {
+      "messageSecret": "Z485jY9KOdBk1apov4e2w39M1+vHhJ0Jnm3COKPGEZM="
+    }
+  },
+  "messageTimestamp": "1765832870",
+  "messageSecret": "Z485jY9KOdBk1apov4e2w39M1+vHhJ0Jnm3COKPGEZM=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5xuZMER28iZGQMP3BRDbgyDMw="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 46 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC90F1A2C5621BD684865ADC07ECA341"
+  },
+  "message": {
+    "conversation": "Oi pai tudo bem aí?",
+    "messageContextInfo": {
+      "messageSecret": "F2dGy9VdYkTdx59wBd5AAITkVVjaVdeZs/gv52hE0BY="
+    }
+  },
+  "messageTimestamp": "1765832864",
+  "messageSecret": "F2dGy9VdYkTdx59wBd5AAITkVVjaVdeZs/gv52hE0BY=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7VU9jOspnrbpcoBSiW6Rb9VDA="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 47 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "21878680854619@lid",
+    "fromMe": false,
+    "id": "3EB08571C104A916A2D6"
+  },
+  "message": {
+    "conversation": "JLF. boa tarde, tudo bem? como posso ajudar?"
+  },
+  "messageTimestamp": "1765824693",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ6UJJESgVLVHqOW/3BLiw=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 48 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": true,
+    "id": "AC213CA39459A776D179153FF9EAF87D"
+  },
+  "message": {
+    "conversation": "Muito obrigado",
+    "messageContextInfo": {
+      "messageSecret": "djiW/W+ynS6aY3EICfMhADQnthsxTNBGtv9P8XGBxss="
+    }
+  },
+  "messageTimestamp": "1765819347",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "129966331142352@lid",
+      "receiptTimestamp": "1765819347",
+      "readTimestamp": "1765819523",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "djiW/W+ynS6aY3EICfMhADQnthsxTNBGtv9P8XGBxss=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 49 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": true,
+    "id": "AC1330DF97E8DAB6ED84EBB110B210A5"
+  },
+  "message": {
+    "conversation": "Vou ligar esse 0800",
+    "messageContextInfo": {
+      "messageSecret": "M51GEiMRSf6LaJZzNegpaFhOMVWyp/OPV/b/+9yLIJE="
+    }
+  },
+  "messageTimestamp": "1765819344",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "129966331142352@lid",
+      "receiptTimestamp": "1765819344",
+      "readTimestamp": "1765819523",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "M51GEiMRSf6LaJZzNegpaFhOMVWyp/OPV/b/+9yLIJE=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 50 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": true,
+    "id": "AC267156D38175ECFA45298BFA6F4A2E"
+  },
+  "message": {
+    "conversation": "Então vou fazer na fisica",
+    "messageContextInfo": {
+      "messageSecret": "wYwo6XRdzf0TdZbN5WoBiPY3r9A4b6sZXEyRIqIIeRQ="
+    }
+  },
+  "messageTimestamp": "1765819338",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "129966331142352@lid",
+      "receiptTimestamp": "1765819338",
+      "readTimestamp": "1765819523",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "wYwo6XRdzf0TdZbN5WoBiPY3r9A4b6sZXEyRIqIIeRQ=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 51 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": false,
+    "id": "3EB0E04204822A0E77075E"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/550492477_876218228265832_1098358686857370834_n.enc?ccb=11-4&oh=01_Q5Aa3QFcpGf96iIUQsmEsBBu2j-EmDGsqukWpD1SKgwO3rk5jQ&oe=6967A034&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "x6E36kWTfPYMipg0gfugpgoWfW1UHfNFB4zIlJ9hVcM=",
+      "fileLength": "33716",
+      "seconds": 16,
+      "ptt": true,
+      "mediaKey": "s3N8o95yXnEl3L40+dVVGUtv0jyhoFXD/CsujdcqDnQ=",
+      "fileEncSha256": "o9J4RH6jV0sxcdRLbIP5cQbdCjPTnFV/TRx53Jp6NHs=",
+      "directPath": "/v/t62.7117-24/550492477_876218228265832_1098358686857370834_n.enc?ccb=11-4&oh=01_Q5Aa3QFcpGf96iIUQsmEsBBu2j-EmDGsqukWpD1SKgwO3rk5jQ&oe=6967A034&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1765819273",
+      "waveform": "Kzo4TEVLQEhKOUUrNhMMMD1KQTgvPEFOO0pKQjUxOz86LBEAFiY1QEMxRUA2UT0/IRkAAB5FPj0xRkg5NgYIBA=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "BMgPv+BLDfwsJHhIdxl3wtUxF69Aag1hegKX6/cAXxg="
+    }
+  },
+  "messageTimestamp": "1765819274",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202551/PTT-20251215-WA0006.opus"
+  },
+  "messageSecret": "BMgPv+BLDfwsJHhIdxl3wtUxF69Aag1hegKX6/cAXxg=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7ZlEJvMaRILZsvXbA8tZ8nrdE="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 52 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": true,
+    "id": "ACBE1853FF5E99591685A520C1D95E25"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/551733547_1357970772305995_5654419399535917563_n.enc?ccb=11-4&oh=01_Q5Aa3QHOs0xDcHVH7rLSeSz0Z2eh-8VLf3LEykYAJ-aCzd5I7g&oe=6967AC86&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "a9jye8lXOjQ1U/Sk+kf5XOa/Wr1yxuOTIp41/VjXDfk=",
+      "fileLength": "130341",
+      "height": 1600,
+      "width": 735,
+      "mediaKey": "UOhkZqDQ0gFoJ3zyRqiyDF8OmUqU/d+96Zc/FNpkCMo=",
+      "fileEncSha256": "mR1bFblXxtzfDx67NsbgaLtdG/+3/qqO9QjxjKdmv7o=",
+      "directPath": "/v/t62.7118-24/551733547_1357970772305995_5654419399535917563_n.enc?ccb=11-4&oh=01_Q5Aa3QHOs0xDcHVH7rLSeSz0Z2eh-8VLf3LEykYAJ-aCzd5I7g&oe=6967AC86&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1765819219",
+      "contextInfo": {
+        "pairedMediaType": "NOT_PAIRED_MEDIA"
+      },
+      "scansSidecar": "7bjldcKghldxshTA4XrX/zfaI0XX0Yvxk+MQvMTEFQAMrM8MxGEAwg==",
+      "scanLengths": [
+        10541,
+        51798,
+        24682,
+        43320
+      ],
+      "midQualityFileSha256": "nUaOPWSDUEjdDPNocIrh9Oqdl8sQAxqT46hwEIWVRLg="
+    },
+    "messageContextInfo": {
+      "messageSecret": "eWH9Fuo2h5woIyyDogcWicWbno9CRdPaFDykd7MrTVY="
+    }
+  },
+  "messageTimestamp": "1765819218",
+  "status": "READ",
+  "messageC2STimestamp": "1765819220",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Images/Sent/IMG-20251215-WA0005.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "129966331142352@lid",
+      "receiptTimestamp": "1765819220",
+      "readTimestamp": "1765819223",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "eWH9Fuo2h5woIyyDogcWicWbno9CRdPaFDykd7MrTVY=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 53 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": false,
+    "id": "3EB05A7C7E2724282FFFFE"
+  },
+  "message": {
+    "conversation": "Não entendi perdão",
+    "messageContextInfo": {
+      "messageSecret": "FIwU0xYRvMD0Y9xx3fEoSOlVfMHhrB9uqU0Ku155D/Y="
+    }
+  },
+  "messageTimestamp": "1765819125",
+  "messageSecret": "FIwU0xYRvMD0Y9xx3fEoSOlVfMHhrB9uqU0Ku155D/Y=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ6uuf501cFAqibzg+bwzsfUOKU="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 54 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": true,
+    "id": "ACA461AF3DBB9C0F6FC9622DF09AD012"
+  },
+  "message": {
+    "conversation": "Vi um com direito ao perplexity",
+    "messageContextInfo": {
+      "messageSecret": "i13QgWq/I7ZsK7D1Uz2PCu/huq0dWYOxysUK33Bf2B4="
+    }
+  },
+  "messageTimestamp": "1765819088",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "129966331142352@lid",
+      "receiptTimestamp": "1765819089",
+      "readTimestamp": "1765819100",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "i13QgWq/I7ZsK7D1Uz2PCu/huq0dWYOxysUK33Bf2B4=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 55 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": false,
+    "id": "3EB0BC3C3A1EEF8B04F805"
+  },
+  "message": {
+    "conversation": "📶 *PLANOS DE INTERNET MÓVEL EMPRESAS* 🚀\n\n✨ Confira nossas ofertas especiais:\n\t• 6GB ➝ R$39,99\n\t• 15GB ➝ R$54,99\n\t• 20GB ➝ R$59,99\n\t• 30GB ➝ R$69,99\n\t• 40GB ➝ R$79,99\n\t• 50GB ➝ R$89,99\n\t• 100GB ➝ R$99,99\n\n\n🎁 *Portabilidade garante +10GB de bônus!*",
+    "messageContextInfo": {
+      "messageSecret": "qxiJbo6sjnm+0JvApb7N/nVKBDHveS/dfUJjdUBkZxk="
+    }
+  },
+  "messageTimestamp": "1765819043",
+  "messageSecret": "qxiJbo6sjnm+0JvApb7N/nVKBDHveS/dfUJjdUBkZxk=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5M2STMEYzZ365rLkjD+uFEMBM="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 56 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": false,
+    "id": "3EB059C7D4427C855122AE"
+  },
+  "message": {
+    "conversation": "Perfeito vou te passar as ofertas ☺️",
+    "messageContextInfo": {
+      "messageSecret": "dNCMck6uP6ofyQInEcRNvgtWqxuq3TF+2GxXOze3lh0="
+    }
+  },
+  "messageTimestamp": "1765819027",
+  "messageSecret": "dNCMck6uP6ofyQInEcRNvgtWqxuq3TF+2GxXOze3lh0=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4W+UfWJVCB0KQs8qx8JMHg9dI="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 57 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": true,
+    "id": "ACF492B05538F632820E532BDC13C05C"
+  },
+  "message": {
+    "conversation": "Olá bia",
+    "messageContextInfo": {
+      "messageSecret": "CADevQHd8mAJ9kAsOP8qNTO9Nx3qel+0Al1fyxxoDvw="
+    }
+  },
+  "messageTimestamp": "1765818942",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "129966331142352@lid",
+      "receiptTimestamp": "1765818942",
+      "readTimestamp": "1765819014",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "CADevQHd8mAJ9kAsOP8qNTO9Nx3qel+0Al1fyxxoDvw=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 58 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": true,
+    "id": "ACCF01CC59A1C8B9C4E7349139192F4F"
+  },
+  "message": {
+    "conversation": "1",
+    "messageContextInfo": {
+      "messageSecret": "X2NIHipojgZ6xA7yTv659BBNtOS7cFLVwzDUCZiQSn0="
+    }
+  },
+  "messageTimestamp": "1765818934",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "129966331142352@lid",
+      "receiptTimestamp": "1765818935",
+      "readTimestamp": "1765819014",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "X2NIHipojgZ6xA7yTv659BBNtOS7cFLVwzDUCZiQSn0=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 59 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": false,
+    "id": "3EB08F67363D4025D56F6F"
+  },
+  "message": {
+    "conversation": "Me chamo Bia da Central Vivo Empresas e vou prosseguir com o atendimento que você estava tendo em nosso ChatBot. \n\nVocê tem interesse em :\n1️⃣ Planos móveis\n2️⃣ Vivo Fibra\n3️⃣ Móvel + Fibra",
+    "messageContextInfo": {
+      "messageSecret": "SOA0vVHFp+aQLvq29UsE0s4aS0psxQKSFxV1tiqJUgs="
+    }
+  },
+  "messageTimestamp": "1765818459",
+  "messageSecret": "SOA0vVHFp+aQLvq29UsE0s4aS0psxQKSFxV1tiqJUgs=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7VWQk+sINgERR8SxFecIHH+BI="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 60 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "129966331142352@lid",
+    "fromMe": false,
+    "id": "3EB0E849EA241813553DB2"
+  },
+  "message": {
+    "conversation": "Olá  boa tarde!!",
+    "messageContextInfo": {
+      "messageSecret": "SHV/ZlZofkUqKbWbLrUsmOmOgMn5Z+uWTGak4hAflF0="
+    }
+  },
+  "messageTimestamp": "1765818451",
+  "messageSecret": "SHV/ZlZofkUqKbWbLrUsmOmOgMn5Z+uWTGak4hAflF0=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5BtnwDJxd6EOBR1/ZfngvUeNA="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 61 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "236992705114112@lid",
+    "fromMe": false,
+    "id": "3EB0676F94F58BA9A071F2"
+  },
+  "message": {
+    "conversation": "Bem vindo ao atendimento da *Regional Telhas*. Aguarde, em breve você será atendido. "
+  },
+  "messageTimestamp": "1765817886",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7SXi6OCY1oa+w3Wrf7SQ=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 62 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "236992705114112@lid",
+    "fromMe": true,
+    "id": "ACBA990573901CC87423F71D292087F1"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Quero falar com um vendedor(a) por favor.",
+      "description": "Quer saber como é feita a produção das Telhas Termoacústicas RT? \n\nAssista o vídeo para ver como são feitas as melhores telhas termoacústicas do mercado!\nSe interessou pelo nosso produto?  Clique no botão e fale com a gente pelo WhatsApp.",
+      "title": "Peça seu Orçamento",
+      "previewType": "NONE",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCACMAIwDASIAAhEBAxEB/8QAHAAAAgMBAQEBAAAAAAAAAAAABQYDBAcCAQAI/8QAPxAAAgEDAgMEBwUGBAcAAAAAAQIDAAQRBSEGElETMUFhFCIycYGR0QcVUqGxFiMzQmLBcnOC0jRDU2OSk+H/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAjEQADAQACAwACAgMAAAAAAAAAAQIRAyESMVFBYRMiMnGB/9oADAMBAAIRAxEAPwAJPbMnaMgzy/h8B1q3FB6qsZJCMbKzkgV1cpILd5ICedVKsv4lpdvuI3sEC+iSyY2ytceRVWeJUNL2Mywp0Ga77CM96gmkZ+Po4sGbTrtM/wBOQa7i+0bTDjniulP+Ua4Pjtfg6qpHeOEROzQlonPe0bFSfiKneS4mUJNdXMifhkmZh8iaSB9o2j537cDqYmz+lWIvtA0d/wCG1yx/yH2/Kl48gbI5ouKkAzSQn2haUx9m5HmYH+lWRx3peAQ03/pk/wBtL+OvhXkhtZOYVy0WQMEqwIIYd4I7jSzHxvpjHdph74X/ANtdxca6VIcCR89ORvpS8KX4F5Jjqdd1psB9RlONvYT/AG1H956p3jUbj5j6Up/thpYOOeT39m30qYcU6Yw/j/kary5P2Lxka49c1lPY1KYefKh/UVdHFWtkAPPDJgYy0W5+RFJJ4n01VJEpY9FG9SR8S6c4HJIS3TlNPz5P2HjIXnmluLuSWdnlnfdnapI02oSvEVjkgtLt/wBpvpXf39Z52aTH+Wd/yrm1T7ZSa/AWK1EYXBPZySIDuQrlcn4UOj4gtHLdoHix3Fh3/KphrdmRlXJHkKaVL0DxkVs3714zgjJBqlqWnRoyyCNRGp9cd4wfGiFxC9vfSoy4Oc561dMKXVvyOMhhymtjWoyy8YCGnWzqMwqceVefc1nnPYrn3VahV4JWt5faQ7HqPA1c7lzWOm08NSxgs6NaMcGFPiKlj0e1jxyxKB08KJRrkZNCuJNcttC02W6umGFHqqO9j4AUJ03iDEi0NOtv+mvyqVNPgx/DX5VlFl9qN/PcYWwj5M/jOcfKnXRuJNQ1NQYrNVGNyzbVb47XsnykZ4tPt2YZjX34q5caLDDGrlIiCPAg4oMk+pk57GH4k0i8Zcaa/wAPakqTWcHoz+xJkkHypKKp4gbSNK9Cg7hEnuxXxsYQP4S/Klzgfi9NbhC3AjSYjIx3GnPlzvUVsvGUsZRSxhA/hr8q9NnEu4jXPuq/y4GTSzxhxLDolp6oEly+yJ18z5ULaeIHiDKwJ+EY91dCBCPZX5VlmmcQ8R3kw5bjPMc8ojGB+VPlguqzwK09wqsfBYx/erfG59sSpMM+jRkeyuOlfC2j8EHyoJq9lq/3dL6Jfus+Mr6g38qQF4m1gZWa7kWRTylcAYNOeN16YnSRrHEsZF5Gw2ySM1X0S7S7LRn1ZF2K/SivF0QVA+O5qS7eRrbVpOzYoX3BHge8VtoyoOcSxS24iu4U5kjOJOvKfH4VEbiJ0BV1I94ruO/1KQAtPGyEeEYFU20uJ3LPzZY5IBwKx8jmmaY1Imur2G1tmllkAjUZJrCeN9WvOJNX9WJ0s4jyxrjv/qPnW5fcltICrpzKfBiTXo4b04n/AIeMH3UcdTHY6ToyfgvhdpiryIeXz8a2LStOjtLdVRQMdKnstMgtRiFAB0ojGgFLk5fL0ExnsiWMd57qC8T8O22u6bJb3Cg5GUbGSp60xquD4V6Rgda5TTT1FNafnqx0LWdB1aWPkMio2xXbmHUVreha80loqXkMkcgAGSpOaY2tYXfJRSfdXotoV7lUV1rkV+0SpaBF1qoFs7QxzSyAeqiqRzH31m02jatqmqPdalCwdj3Y2QeAFbIIox0r3s06ClNqfSG50VtA0OO1iX1PDc/2pljj5VAAroFVYjYCpQyYzzLj31FW6Y1KRwyBgQRSfrnBlrqGoNcBniLAcwTuJ605mSMtgOuema8Lr1HzomnPoGky1xbFmzkOM43pFurV5HiuIwxK7YFaZxHbmSznH9JrPjEkiIsoDKrbjwr0qMUguTW/QlEb2dwxUY9Va4/alTjlsLrPuFGW01bO6aOVQVb1oz4MvhV2O3iA9VBWGvFPtGqda9gCPiOTx0+6Ge7Yb/nUsWu3Mkg5NNnx1bajosomkDsrHHcM7VaSBFGyL8qjyn4Xj+i4dU1Vj+7sAPe9SRXGtyHPYRKPMmmNVTADkeYB2qUMmN2FLyXwMf0X0++2GcQj516settuzxgdBR8AGQuZV5AMcnXzqvdavp1mcXV3BG3fhnAo39Bn7B/ouqkb3KoevJmvBY6mFI9KQ/6KNWtzBeQrLbyLJG3cynINThR4UvIMF630q/WII9/J5kbn5mpY9JnRSZL2d/eaO8oxmhHEOu2mjW3a3TZ8Ai7knypqm+kGI5+5kcczTTHzDkZ+VffckB3YyE+bE0EsuPLW4OPQ7kA92wNMcWqNJbrIlrKC/cjYBx1qstBssrnRLUOCUzU33VbfgFDOIdW1SzsmuLOwjlCe0jSHmx1AAoTpvHPbWqvPbrzn8JxR42xbKNj1eIdm4dHwVO4x9azYxqQ3ZkMpzuPCtX1RA0bA1khLQXkqocYkKkdd/GvQpGNDHbWSaxpEUTHEyLhG8VYUEg7WKZ7e4AEkZwcePnRqwtbvsLi2spVju8CWMnuOfD3UGvoJRORdQPBKn85IH51k55emjifReTOKBcWcRQaDpzzvl5jtHGDux+lW5Lp+XCAn4/SlXVuGrrVrj0m8mDEbIgzsPlXKI1/2OlVi6M/j13XdUuS8t3KnMSQkewHlWg8LabqEyJNfXU5iGwTmOWPSrGlcIW9rOsjOGAO4VTk062ltyhTyhQBhVHco6V2u5S6Ocy2ziO0kKgmRlHgqnYUs8d8DW3Elg2QBeop7Kbxz0PlTwimpAgK71nXI09OrlGAcC6nrPB9+9hfJJJZ83KyEE8nmPKtttb+G4tklidWQjPqnIFR32i213cCZooy/ceYZz76+ttGt7fIjjRMncKMVV1F9/kmU0R6pq8dtbSP3lRsAck/Csuu7bUNb1M3F2jAE+qp7lFa+NOgwMqM9RtXXoUSnILD/AFGnx1MDadCxw9w9FYxJNLEGlYZSM+P9R8v1pmhjIXmces3fUyxxp3HJ6k5r4vGBgsoz3b1N26HM4RSxLIpVhkHas51rgK4k1GSTTpzFA+/JthT5VpBmiU4Mif8AkKj9MtvGaL4sKU1U+htJmg6mh5Disk1WMxaveL0kJFbHfLlTWU8TxFNdudvaw35V6tGA81pTLpljMhIYnsyV2PcfGqMFqgOTk+bEk/nRRLM6pw5JDGJTNBIJIxG4Uk93eSBjc0q3um6jHevBNczKyjPqvsQe491ZOaW3unfipZgxI0S4AK5qZZYgMsyge+laLh+Yvma6mbPgGINW4+F4mA55JDvvk5z86ztT9O2v4G31OyhOZJ4h/qFVm4l09WOJQcfhGajt+GbKPcxg1fh0m0iUARLt4mp2R/2Kn7TwNtHFM/8AhQ16vEMzg9nYTsPD1cZ+dFUtbcDaNCfDNWoo4okGSPfRs/AxgBNV1GUns9PcEb+sR9a9ivNZmLYtIosHHrsQT+VFpdTsIDyyXMKHoXAqz6sihlI5TuKTaX4Gl+wEY9blyDLBEPJSf718dP1R8c98EA/Av1zR8JmvpnSGMsxAAHjR5/EGC+NGlI5Z9QuXUnJHNj9K6OgWpbDPOxx/NIx/WhkvFM8+oPDplss0SHBlZsD4UZt5tSmiBeOKMn3mratdsX9T5NBsB3wIT/VvViPSbNUAWIAdKVeNdQ4h0y2WWw7AwnZ35PWU9aQxxJxQd3uJZD+IDH5Yqp46rvSXSX4P1zdqWzgVmXGsDR60GIIDxj+9Mn2dSy3ug3Ml5JJPL2p9aZi7Aco61BxVaRtbSShB2kakrjb4V6D7WmXMeAbhAjtZovBlz8qs8SaaZrUXUK5lg9oDvZf/AJQrg+7jmvonjOGJ5WTxGafVhJZgV2YVFJUsYTsvUZ3byKwBHjV6PAFBbkS6bql1BOY0VZCyBTsVOe6un1Qcp5AzEeCivOqGnhtTWaT6/rEGk2LzztgDZVHex6CkvStW1vWrrmEnYQk7KFrq/wBJvtd1Bbi6VxGp9SPwA+tOmj6ZHYwqoUc+PlXRKYXfsht0zyCxlEY7a4lZsdcUL4i4fk1LT3W0ubiKdRlSshHN5GmtE61KqgCuatp6X46fntuFLn0h1lRu1U4Ysd81onBupX+mxLa6nzy2wGEkxkr5GnS4sLeSftWQdoRjPWvVtIF2wD798V0rlmljRChp9HD6lAvsuM0t8Q3F5qOLW0DiM/xHwR8BTOIoUP8AKPOvpLi1jGDKgOOtc5xPSmmwPoejpapHsNt8UxImfChUmqW8ZHJzOfHlGakXWCRmO1mYeYxQ267Y1iL1zbpPE0cqhlIwQaBrw1Eoxyhhnvzir33hdyHC2hA6swrrtdQO4SEDpkn+1NOp9CaTGH7Jk5dF1AZJJmyc56UU1qLtIJFIzkEUL+yGYS6bqShWUJIvtDv2P0pi1BAQa9Nf4mO/Zh9k72d3LyMUdAxUg4wRuP0pga/1C5H7/ULl0YboXwPyoRrMHY61dKO4Oe7oapva3U7RkzyJG+eXlPcR4Vm5U36OvG0hgVIti3LnzNSB4E73RfiKEwaECB2s07jzersWg2gG8XN/iJNZevp3LD6tYw7GeMnoDXB1xCf3FvcSj+lD+pqxDp9tENo0UdQK+a9sLcYkuYkOcYLAUug7K/3jqMo/cWZTf/mnA/KpVOrS5JaGPbuyTj9KsWmo2txKUtWWUgZPKcgDqT3Cp57kxxuUEZZVJADZz5ermnj+B/0ox2l+65luyCfBUA/Wul0+Rj+8uJmbxPNik4faLLDq/ot9pkkEQblZubJHnitAsrmK6gWWFg0bDIYHvopOfYJplSPR4Scvzv8A4mJqcafbQrkRxqB44q88qxpk4pF4q1a5vc2lgSsecSOP0FKdt4DxDR6XYocdvDkeHMKmS4gaHnTLpnHMoJHzpT4c4biWJbm6TKZ2Hi58vrThFbpyqWVQF2VQNlHQVVQp/JM02LvEvFttoCRvLaXMyv3NEARnod9qI6PxBY6rp8V3BMqq49liAQehq1q2mQajZvBOgZG8CPGkxODRHzKkjIvMcBc4PnVTMUvgN0jUfsbDejashH86EHrs1N17B6rcxAHU1kGkaxeaRw5qTWEnZPLOkRcDcDB7j1pW1a+vZ7eWV766BAOVEp5SRvkj41t8sRwc69HPjHTzFrUkqEMjgNkb1zolqLyzuLcnDAh0PQ05aToNpqGni4ujK0zRqebm8s9KB6NbpFrUsaZ5fWX5GpzehPoDWcjdo8MmBLGcMKvAhRuQKo6nClnxDerGCwChgWOcc2+PdXlpCt9OO1LKVUhSp7s+/NYbnvDSq6AXF+tTKjWWnkiZxhnH8o+tLfDfDklzcfvss3exY+HUmnmaztLOcclrHI2clpCxJ9+9XbOUSKUWKKJG9oRrjPvrsmoXRD2mfadZxQQCKJQIV8vbPU/2omkS8uwAFeRKANqlOwrPVNvTqpwXtf4dg1A9qECzD+YD2h0qTRtGXT4QLe4mwdzGU9XPxNGHcgZryWQpHzLjIqlyPME5Xsje1EuzhmB7wz7flivorGCE5jhgTyEYP65oXeapcRMAnIM+VWFaSSMTNLJzEbgEYpp1+BPAkgzJmRixAwM7YHl0rprqCPPPKoI8M70NaJSmTk+OCc/rV2O3jK45dqWfR/6PTewuMIHb3DBrz0kjuT5kCpViRRsoqQAUuh9n/9k=",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "Peça seu Orçamento",
+          "body": "Quer saber como é feita a produção das Telhas Termoacústicas RT? \n\nAssista o vídeo para ver como são feitas as melhores telhas termoacústicas do mercado!\nSe interessou pelo nosso produto?  Clique no botão e fale com a gente pelo WhatsApp.",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/491762625_1710879479794446_2999514191099346306_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=DvzwrKa2k3cQ7kNvwFLlYIN&_nc_oc=AdnbXrPkkemRS5yVPZYqYSDTOEz_hVcJiEYN8aXMg735SDZRnhAgpS5rqp-Mi_b6p1euYAdJBZ2mbguS8FqQLVG8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=C3vmbeAuqn99__0d6bZKew&oh=00_Afn1dgoNDnEfCQyZBl3u_fcqYfWi6xj4abayf8xp5Wr7TQ&oe=694606A5",
+          "mediaUrl": "https://www.facebook.com/regionaltelhas/videos/764459749797594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120222615065580074",
+          "sourceUrl": "https://fb.me/6Mp7OJrjA",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "clickToWhatsappCall": true,
+          "adContextPreviewDismissed": false,
+          "sourceApp": "facebook",
+          "automatedGreetingMessageShown": true,
+          "greetingMessageBody": "Olá ! Diga como podemos ajudar você.",
+          "disableNudge": false,
+          "originalImageUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/491762625_1710879479794446_2999514191099346306_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=DvzwrKa2k3cQ7kNvwFLlYIN&_nc_oc=AdnbXrPkkemRS5yVPZYqYSDTOEz_hVcJiEYN8aXMg735SDZRnhAgpS5rqp-Mi_b6p1euYAdJBZ2mbguS8FqQLVG8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=C3vmbeAuqn99__0d6bZKew&oh=00_Afn1dgoNDnEfCQyZBl3u_fcqYfWi6xj4abayf8xp5Wr7TQ&oe=694606A5",
+          "wtwaAdFormat": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "gCKDNn8Er35tky0dJZo27CqMXjt1eMutFhLUn17Igic="
+    }
+  },
+  "messageTimestamp": "1765817851",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1765817852",
+  "userReceipt": [
+    {
+      "userJid": "236992705114112@lid",
+      "receiptTimestamp": "1765817854",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "gCKDNn8Er35tky0dJZo27CqMXjt1eMutFhLUn17Igic=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 63 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "236992705114112@lid",
+    "fromMe": false,
+    "id": "AC8C77239C43BEF7061C5DB3554E4537"
+  },
+  "message": {
+    "interactiveMessage": {
+      "header": {
+        "title": "Anúncio do Facebook",
+        "subtitle": "Mostrar detalhes",
+        "hasMediaAttachment": true,
+        "jpegThumbnail": "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"
+      },
+      "body": {
+        "text": "Olá ! Diga como podemos ajudar você."
+      },
+      "nativeFlowMessage": {
+        "messageParamsJson": "{}"
+      },
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "Peça seu Orçamento",
+          "body": "Quer saber como é feita a produção das Telhas Termoacústicas RT? \n\nAssista o vídeo para ver como são feitas as melhores telhas termoacústicas do mercado!\nSe interessou pelo nosso produto?  Clique no botão e fale com a gente pelo WhatsApp.",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/491762625_1710879479794446_2999514191099346306_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=DvzwrKa2k3cQ7kNvwFLlYIN&_nc_oc=AdnbXrPkkemRS5yVPZYqYSDTOEz_hVcJiEYN8aXMg735SDZRnhAgpS5rqp-Mi_b6p1euYAdJBZ2mbguS8FqQLVG8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=C3vmbeAuqn99__0d6bZKew&oh=00_Afn1dgoNDnEfCQyZBl3u_fcqYfWi6xj4abayf8xp5Wr7TQ&oe=694606A5",
+          "mediaUrl": "https://www.facebook.com/regionaltelhas/videos/764459749797594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120222615065580074",
+          "sourceUrl": "https://fb.me/6Mp7OJrjA",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "clickToWhatsappCall": true,
+          "adContextPreviewDismissed": false,
+          "sourceApp": "facebook",
+          "automatedGreetingMessageShown": true,
+          "greetingMessageBody": "Olá ! Diga como podemos ajudar você.",
+          "disableNudge": false,
+          "originalImageUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/491762625_1710879479794446_2999514191099346306_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=DvzwrKa2k3cQ7kNvwFLlYIN&_nc_oc=AdnbXrPkkemRS5yVPZYqYSDTOEz_hVcJiEYN8aXMg735SDZRnhAgpS5rqp-Mi_b6p1euYAdJBZ2mbguS8FqQLVG8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=C3vmbeAuqn99__0d6bZKew&oh=00_Afn1dgoNDnEfCQyZBl3u_fcqYfWi6xj4abayf8xp5Wr7TQ&oe=694606A5",
+          "wtwaAdFormat": false
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1765817847",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 64 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "21878680854619@lid",
+    "fromMe": true,
+    "id": "AC69FDA6DE1A37F6F3F4921BB3014262"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Olá! Tenho interesse e queria mais informações, por favor.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "Converse conosco",
+          "mediaType": "IMAGE",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t45.1600-4/560286197_24701835366149483_437195109328617248_n.png?stp=c3.3.300.300a_dst-png_p306x306&_nc_cat=106&ccb=1-7&_nc_sid=e37a05&_nc_ohc=lhann0-Kk64Q7kNvwEfP5X7&_nc_oc=AdmKLYixufX2MnNQxSP1ShN-5Hi_gQSmKLYNrTUR7wSp7gTqpLMCsmBUYGEMxSfP0q46vCYwlqgOXjiw_kJ6jJwz&_nc_ad=z-m&_nc_cid=0&_nc_zt=1&_nc_ht=scontent.xx&_nc_gid=ekbJKWDKnQE6S5Mkr5IGFQ&oh=00_AfmBHJQsRC8KF1Lybm5m5ICmyM9a9DBUmDzN2ybcUdd3Ew&oe=6945F50D",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120229092754200374",
+          "sourceUrl": "https://fb.me/3p09wJZtf",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "clickToWhatsappCall": true,
+          "adContextPreviewDismissed": false,
+          "sourceApp": "facebook",
+          "automatedGreetingMessageShown": true,
+          "greetingMessageBody": "Olá! Diga como podemos ajudar você.",
+          "disableNudge": false,
+          "originalImageUrl": "https://www.facebook.com/ads/image/?d=AQKk_o29Rd-nA98Rutcy9siEiSjsbu76m2pC5O_5PVCP1siBggjBtWPc8b2s4A2PpJhqY6mde5wa1W-hUu7IcLDs6vJxiM2iUXNu-HWddTkII2vMhJ4-ePeu2NQtlz5Ly5aEJptwDhTv4SH6QTk5KzaT",
+          "wtwaAdFormat": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "3cs+17RBHPj29bh5/hFye4IvEiOQB4RpnZbr7rIvEsk="
+    }
+  },
+  "messageTimestamp": "1765816935",
+  "status": "READ",
+  "messageC2STimestamp": "1765816936",
+  "userReceipt": [
+    {
+      "userJid": "21878680854619@lid",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1765824693",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "3cs+17RBHPj29bh5/hFye4IvEiOQB4RpnZbr7rIvEsk=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 65 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "21878680854619@lid",
+    "fromMe": false,
+    "id": "ACACB2E756E8EBA01C9DD0F14A39E956"
+  },
+  "message": {
+    "interactiveMessage": {
+      "header": {
+        "title": "Anúncio do Facebook",
+        "subtitle": "Mostrar detalhes",
+        "hasMediaAttachment": true,
+        "jpegThumbnail": "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"
+      },
+      "body": {
+        "text": "Olá! Diga como podemos ajudar você."
+      },
+      "nativeFlowMessage": {
+        "messageParamsJson": "{}"
+      },
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "Converse conosco",
+          "mediaType": "IMAGE",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t45.1600-4/560286197_24701835366149483_437195109328617248_n.png?stp=c3.3.300.300a_dst-png_p306x306&_nc_cat=106&ccb=1-7&_nc_sid=e37a05&_nc_ohc=lhann0-Kk64Q7kNvwEfP5X7&_nc_oc=AdmKLYixufX2MnNQxSP1ShN-5Hi_gQSmKLYNrTUR7wSp7gTqpLMCsmBUYGEMxSfP0q46vCYwlqgOXjiw_kJ6jJwz&_nc_ad=z-m&_nc_cid=0&_nc_zt=1&_nc_ht=scontent.xx&_nc_gid=ekbJKWDKnQE6S5Mkr5IGFQ&oh=00_AfmBHJQsRC8KF1Lybm5m5ICmyM9a9DBUmDzN2ybcUdd3Ew&oe=6945F50D",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120229092754200374",
+          "sourceUrl": "https://fb.me/3p09wJZtf",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "clickToWhatsappCall": true,
+          "adContextPreviewDismissed": false,
+          "sourceApp": "facebook",
+          "automatedGreetingMessageShown": true,
+          "greetingMessageBody": "Olá! Diga como podemos ajudar você.",
+          "disableNudge": false,
+          "originalImageUrl": "https://www.facebook.com/ads/image/?d=AQKk_o29Rd-nA98Rutcy9siEiSjsbu76m2pC5O_5PVCP1siBggjBtWPc8b2s4A2PpJhqY6mde5wa1W-hUu7IcLDs6vJxiM2iUXNu-HWddTkII2vMhJ4-ePeu2NQtlz5Ly5aEJptwDhTv4SH6QTk5KzaT",
+          "wtwaAdFormat": false
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1765816935",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 66 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": false,
+    "id": "C9529EA751F314320E"
+  },
+  "message": {
+    "conversation": "Oi, ainda está aí? Preciso que responda a pergunta acima para dar sequência no seu atendimento."
+  },
+  "messageTimestamp": "1765813914",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ68uIU/UbZUuVleR6tKfA=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 67 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ACC3191BFDBD44D5360C438378C03A1B"
+  },
+  "message": {
+    "conversation": "fica com Deus também",
+    "messageContextInfo": {
+      "messageSecret": "3scF8H9e8pTVqqjuiOjDOmyby4WGu76TLSdMyRih7bo="
+    }
+  },
+  "messageTimestamp": "1765813303",
+  "messageSecret": "3scF8H9e8pTVqqjuiOjDOmyby4WGu76TLSdMyRih7bo=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7IJApw7WnilBMoPt88O2M3Slg="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 68 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ACABF7281B311B1C2FC87374B637A09E"
+  },
+  "message": {
+    "conversation": "obrigado, bom almoço",
+    "messageContextInfo": {
+      "messageSecret": "BM48Ws47irWbZA62qcW+4UY9oo+GiEAcYKj/i/B3hbA="
+    }
+  },
+  "messageTimestamp": "1765813300",
+  "messageSecret": "BM48Ws47irWbZA62qcW+4UY9oo+GiEAcYKj/i/B3hbA=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4O5RmeOAhSlvbnn+bGPhdb32g="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 69 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC5FE8673F60F686B32699E057536DDA"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/551504248_872585865343449_443883681793713005_n.enc?ccb=11-4&oh=01_Q5Aa3QFgJx7Aku2VtSp65AYIPvA3JUjyxjL0XVW9Nz53Kjc9ww&oe=69679804&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "X2Uh247jFnHqoT5ybajC2ow4Yq/YHbVgcupF7BPmLRU=",
+      "fileLength": "21865",
+      "seconds": 11,
+      "ptt": true,
+      "mediaKey": "joI4bTjbafK3nAn0XkyHhf8Sc2969z2npmIDdgHk0YE=",
+      "fileEncSha256": "JgPbtdM0ijeGAran4B02CjujirIAkW9JSbuU+0Lu6HE=",
+      "directPath": "/v/t62.7117-24/551504248_872585865343449_443883681793713005_n.enc?ccb=11-4&oh=01_Q5Aa3QFgJx7Aku2VtSp65AYIPvA3JUjyxjL0XVW9Nz53Kjc9ww&oe=69679804&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1765813265",
+      "waveform": "JyM/Vk4bVTgoHSZQQTgWBlBQRlZTIEMaDQwQDQgLDDxPQzs5SUMiQD4+Ow44TzVHR0c+UT08Hi9GSzoODw0FDw=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "Pzfd457YHb8ia7TDXFBNNuhq+V8J3tPWUypz94RZuro="
+    }
+  },
+  "messageTimestamp": "1765813274",
+  "status": "PLAYED",
+  "messageC2STimestamp": "1765813275",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202551/PTT-20251215-WA0004.opus"
+  },
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765813275",
+      "readTimestamp": "1765813283",
+      "playedTimestamp": "1765813284"
+    }
+  ],
+  "messageSecret": "Pzfd457YHb8ia7TDXFBNNuhq+V8J3tPWUypz94RZuro=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 70 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC374D7A636083C664FCE96C281E1B3E"
+  },
+  "message": {
+    "conversation": "não, é lá do lado do rio",
+    "messageContextInfo": {
+      "messageSecret": "KA6ZHQCse/nRsZg3WUoa4mrkgKcRaAXjo8fqRkOXUKI="
+    }
+  },
+  "messageTimestamp": "1765813218",
+  "messageSecret": "KA6ZHQCse/nRsZg3WUoa4mrkgKcRaAXjo8fqRkOXUKI=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ78LOu76PwIK68NBIgXaT/Rd40="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 71 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": false,
+    "id": "0D6B0F41CD3EC3D5E4"
+  },
+  "message": {
+    "buttonsMessage": {
+      "contentText": "Alan, você deseja portar linhas existentes ou contratar linhas novas?",
+      "footerText": "",
+      "buttons": [
+        {
+          "buttonId": "portabilidade",
+          "buttonText": {
+            "displayText": "Portabilidade"
+          },
+          "type": "RESPONSE"
+        },
+        {
+          "buttonId": "linhas_novas",
+          "buttonText": {
+            "displayText": "Linhas Novas"
+          },
+          "type": "RESPONSE"
+        }
+      ],
+      "headerType": "EMPTY"
+    }
+  },
+  "messageTimestamp": "1765812989",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ52Xe6Q6eF7yyE4Tsjt9Q=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 72 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": true,
+    "id": "ACE099DE6A57BFC3685CC6905550040B"
+  },
+  "message": {
+    "messageContextInfo": {
+      "messageSecret": "71ruQuRSOmEBF1lkwm4kyMeCpG5fIHhoPowtJgOL1BI="
+    },
+    "buttonsResponseMessage": {
+      "selectedButtonId": "produto_movel",
+      "selectedDisplayText": "Vivo Móvel",
+      "contextInfo": {
+        "stanzaId": "62A1ABBCCC612B9181",
+        "participant": "200923586494637@lid",
+        "quotedMessage": {
+          "buttonsMessage": {
+            "contentText": "Qual produto você deseja contratar?",
+            "footerText": "",
+            "buttons": [
+              {
+                "buttonId": "produto_fibra",
+                "buttonText": {
+                  "displayText": "Internet Vivo Fibra"
+                },
+                "type": "RESPONSE"
+              },
+              {
+                "buttonId": "produto_movel",
+                "buttonText": {
+                  "displayText": "Vivo Móvel"
+                },
+                "type": "RESPONSE"
+              }
+            ],
+            "headerType": "EMPTY"
+          }
+        }
+      },
+      "type": "DISPLAY_TEXT"
+    }
+  },
+  "messageTimestamp": "1765812986",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1765812987",
+  "userReceipt": [
+    {
+      "userJid": "200923586494637@lid",
+      "receiptTimestamp": "1765812987",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "71ruQuRSOmEBF1lkwm4kyMeCpG5fIHhoPowtJgOL1BI=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 73 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": false,
+    "id": "62A1ABBCCC612B9181"
+  },
+  "message": {
+    "buttonsMessage": {
+      "contentText": "Qual produto você deseja contratar?",
+      "footerText": "",
+      "buttons": [
+        {
+          "buttonId": "produto_fibra",
+          "buttonText": {
+            "displayText": "Internet Vivo Fibra"
+          },
+          "type": "RESPONSE"
+        },
+        {
+          "buttonId": "produto_movel",
+          "buttonText": {
+            "displayText": "Vivo Móvel"
+          },
+          "type": "RESPONSE"
+        }
+      ],
+      "headerType": "EMPTY"
+    }
+  },
+  "messageTimestamp": "1765812970",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4gOOMuobJqlePReHYeDQ=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 74 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": true,
+    "id": "ACFCD15196C8B3AF929147FAECE5440B"
+  },
+  "message": {
+    "conversation": "Alan Silva de Lucena",
+    "messageContextInfo": {
+      "messageSecret": "L5Io/qzRpjq7vCMJFkWYugAKLdduaot2h7AmyEAp7QE="
+    }
+  },
+  "messageTimestamp": "1765812968",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "200923586494637@lid",
+      "receiptTimestamp": "1765812969",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "L5Io/qzRpjq7vCMJFkWYugAKLdduaot2h7AmyEAp7QE=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 75 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": false,
+    "id": "72F3D8D3003CB6869D"
+  },
+  "message": {
+    "conversation": "Por favor, digite seu *nome completo*."
+  },
+  "messageTimestamp": "1765812958",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ6R9ek6FuLpfn7WAjvfZg=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 76 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": true,
+    "id": "AC3E9DA90B50EBC89324E205CAD7C2CC"
+  },
+  "message": {
+    "messageContextInfo": {
+      "messageSecret": "ZDHctKyMEWmNI6jFjmDTgJtsBnkGS63WvjlnCOqohME="
+    },
+    "buttonsResponseMessage": {
+      "selectedButtonId": "confirmar_cnpj_sim",
+      "selectedDisplayText": "Sim",
+      "contextInfo": {
+        "stanzaId": "2BEF0CEF527051821C",
+        "participant": "200923586494637@lid",
+        "quotedMessage": {
+          "buttonsMessage": {
+            "contentText": "Razão Social: 63.723.823 ALAN SILVA DE LUCENA\nConfirma os dados do CNPJ?",
+            "footerText": "",
+            "buttons": [
+              {
+                "buttonId": "confirmar_cnpj_sim",
+                "buttonText": {
+                  "displayText": "Sim"
+                },
+                "type": "RESPONSE"
+              },
+              {
+                "buttonId": "confirmar_cnpj_nao",
+                "buttonText": {
+                  "displayText": "Não"
+                },
+                "type": "RESPONSE"
+              }
+            ],
+            "headerType": "EMPTY"
+          }
+        }
+      },
+      "type": "DISPLAY_TEXT"
+    }
+  },
+  "messageTimestamp": "1765812956",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "200923586494637@lid",
+      "receiptTimestamp": "1765812957",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "ZDHctKyMEWmNI6jFjmDTgJtsBnkGS63WvjlnCOqohME=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 77 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": false,
+    "id": "2BEF0CEF527051821C"
+  },
+  "message": {
+    "buttonsMessage": {
+      "contentText": "Razão Social: 63.723.823 ALAN SILVA DE LUCENA\nConfirma os dados do CNPJ?",
+      "footerText": "",
+      "buttons": [
+        {
+          "buttonId": "confirmar_cnpj_sim",
+          "buttonText": {
+            "displayText": "Sim"
+          },
+          "type": "RESPONSE"
+        },
+        {
+          "buttonId": "confirmar_cnpj_nao",
+          "buttonText": {
+            "displayText": "Não"
+          },
+          "type": "RESPONSE"
+        }
+      ],
+      "headerType": "EMPTY"
+    }
+  },
+  "messageTimestamp": "1765812953",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5xUYoiCfb32/ZYeNMU9g=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 78 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": true,
+    "id": "AC8AB3FC9C716D2EAA1F912D7E40419F"
+  },
+  "message": {
+    "conversation": "63723823000165",
+    "messageContextInfo": {
+      "messageSecret": "NxQVVYxBroMS9AHBd7lvzhfPdJLqNwJte1DzsHMagt0="
+    }
+  },
+  "messageTimestamp": "1765812950",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "200923586494637@lid",
+      "receiptTimestamp": "1765812950",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "NxQVVYxBroMS9AHBd7lvzhfPdJLqNwJte1DzsHMagt0=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 79 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": false,
+    "id": "18779E8A0BFCD97071"
+  },
+  "message": {
+    "buttonsMessage": {
+      "contentText": "*DIGITE SEU CNPJ* para iniciarmos seu atendimento:",
+      "footerText": "",
+      "buttons": [
+        {
+          "buttonId": "sem_cnpj",
+          "buttonText": {
+            "displayText": "Não tenho CNPJ"
+          },
+          "type": "RESPONSE"
+        }
+      ],
+      "headerType": "EMPTY"
+    }
+  },
+  "messageTimestamp": "1765812905",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4JtTDa5F/z1zXEWVkGOQ=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 80 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": false,
+    "id": "729BA39A6C269CA2E4"
+  },
+  "message": {
+    "conversation": "Por favor, digite um *CNPJ* válido ou clique em 'Não tenho CNPJ'."
+  },
+  "messageTimestamp": "1765812904",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4ukj9w7wgC71cS6tQq+A=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 81 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": true,
+    "id": "AC8E5AB0B6C2A8875FF65856E2BAC74E"
+  },
+  "message": {
+    "conversation": "063723823000165",
+    "messageContextInfo": {
+      "messageSecret": "uUmnzInkb10s4wSkAtXtgr3uZZm9SDYYNHu48qJtfoU="
+    }
+  },
+  "messageTimestamp": "1765812902",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "200923586494637@lid",
+      "receiptTimestamp": "1765812903",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "uUmnzInkb10s4wSkAtXtgr3uZZm9SDYYNHu48qJtfoU=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 82 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": false,
+    "id": "5E61DE7955D99C0D16"
+  },
+  "message": {
+    "buttonsMessage": {
+      "contentText": "*DIGITE SEU CNPJ* para iniciarmos seu atendimento:",
+      "footerText": "",
+      "buttons": [
+        {
+          "buttonId": "sem_cnpj",
+          "buttonText": {
+            "displayText": "Não tenho CNPJ"
+          },
+          "type": "RESPONSE"
+        }
+      ],
+      "headerType": "EMPTY"
+    }
+  },
+  "messageTimestamp": "1765812880",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ6N/YVeG1rsfXdhDc884w=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 83 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": false,
+    "id": "280F5CA4BAB9A8AD36"
+  },
+  "message": {
+    "conversation": "Olá, sou o Bruno, seu assistente! Seja bem-vindo(a)! 👋"
+  },
+  "messageTimestamp": "1765812879",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ6apg9ZIvXzEeTmhcTaJg=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 84 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "200923586494637@lid",
+    "fromMe": true,
+    "id": "AC5F67814678D7098F753E1997CF8256"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Olá. Quero v﻿‌​​‌⁠‌​‌​​​﻿er os planos.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "🔥OFERTA PARA CNPJ",
+          "body": "Se o seu plano já tem mais de 1 ano, atenção: você pode estar pagando mais caro e recebendo menos benefícios! 😱\nPlanos antigos geralmente oferecem menos dados de internet, menos vantagens e menos velocidade.\n\n🚀 Com a Vivo Empresas, você traz o seu número, reduz custos e ainda garante um plano atualizado, cheio de benefícios exclusivos para CNPJ.",
+          "mediaType": "IMAGE",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t45.1600-4/547297268_1287069142917395_6840111777077509793_n.png?stp=c3.3.300.300a_dst-png_p306x306&_nc_cat=103&ccb=1-7&_nc_sid=e37a05&_nc_ohc=G1dt-hdr9OcQ7kNvwE8Wdtt&_nc_oc=AdlKGNVoI8HYQKlfXZAxWlRj_oLbYm4AEA7_9PQQvcMApckcha3J99DsqMLZJKLJTgmkW6vGZ3POmZQvAS2wtH7e&_nc_ad=z-m&_nc_cid=0&_nc_zt=1&_nc_ht=scontent.xx&_nc_gid=o1_yzdCVyMU63kmWeLdw9g&oh=00_AflT9SJx7S26N60u46h66tpmElEgqT_LTCbPHD_SR0Mxwg&oe=6945E896",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120233394620850440",
+          "sourceUrl": "https://www.instagram.com/p/DOeQ2QYgDai/",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "clickToWhatsappCall": true,
+          "adContextPreviewDismissed": false,
+          "sourceApp": "instagram",
+          "automatedGreetingMessageShown": false,
+          "greetingMessageBody": "Olá! Diga como podemos ajudar você.",
+          "disableNudge": false,
+          "originalImageUrl": "https://www.facebook.com/ads/image/?d=AQIkWR_-h-jjH4ygMS8-A6t2tcj5PDV8JYKYO1zdWBFAcBAM2asL06QoyTmamHTS0S3gLsRzFT4X02gPY0Sm7EWaPe1YOkBKsAdySBjO_df2FmAFDk607NMuk6rGP38E-_3q4dRcxASX0irTomYqVen7",
+          "wtwaAdFormat": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "Pwq+STW32XWUxjL/+gj895QPtjQ9zBb9paDJCtbJreQ="
+    }
+  },
+  "messageTimestamp": "1765812876",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1765812877",
+  "userReceipt": [
+    {
+      "userJid": "200923586494637@lid",
+      "receiptTimestamp": "1765812878",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "Pwq+STW32XWUxjL/+gj895QPtjQ9zBb9paDJCtbJreQ=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 85 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACF6164F7A15EB5F124A06864017FB64"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/35202027_25406980755589458_1088965385601146506_n.enc?ccb=11-4&oh=01_Q5Aa3QFIyNIHysYpfe0e575uwmHGG6NXopevzDSuUtN5KNNGrQ&oe=6967AD7C&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "Zzgyzu2gi5l7H0wiRsAbQMMzPlNPlj/tiQDrw1zDFoQ=",
+      "fileLength": "6742",
+      "seconds": 3,
+      "ptt": true,
+      "mediaKey": "jkVCCCxIJCQ92j9Iu8d9TNxi6uNO+kdhFlVedvRdslQ=",
+      "fileEncSha256": "kPSOIQRgIzvhGwAIv9U6KddzNRoydpHL64iBpzGN+kg=",
+      "directPath": "/v/t62.7117-24/35202027_25406980755589458_1088965385601146506_n.enc?ccb=11-4&oh=01_Q5Aa3QFIyNIHysYpfe0e575uwmHGG6NXopevzDSuUtN5KNNGrQ&oe=6967AD7C&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1765812828",
+      "waveform": "AAAJAAAABxIRExAHAAIgO0E+PTw5NDk5PDcVIUA2O09ZVlAwIjMtKBxFPTkmEgkJBhUJDRMHCA0KBwEHAQAEAA=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "QgUXYW9tGOCXSVPL08VfZ+FB+OTjhHfyUAbBH4+0zoQ="
+    }
+  },
+  "messageTimestamp": "1765812830",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202551/PTT-20251215-WA0003.opus"
+  },
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765812831",
+      "readTimestamp": "1765813178",
+      "playedTimestamp": "1765813192"
+    }
+  ],
+  "messageSecret": "QgUXYW9tGOCXSVPL08VfZ+FB+OTjhHfyUAbBH4+0zoQ=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 86 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC843DC0E326D3112915BAE036DB06CE"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "caiu metade daquela parte de terra aqui pra baixo de casa",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "AC1EB1F81A39DCE05D31DC0B7B77F132",
+        "participant": "554391537577@s.whatsapp.net",
+        "quotedMessage": {
+          "audioMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7117-24/35170237_842099198597935_1117334742606634003_n.enc?ccb=11-4&oh=01_Q5Aa3QFhdYomopQcOeV1MXj9_DqqnsOZitdvFPtD0uiiAhaDQg&oe=6967813C&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "audio/ogg; codecs=opus",
+            "fileSha256": "B5lPt2KQTTnKi122Tiju2npsH2XP8+zCkeK/mNKxW0w=",
+            "fileLength": "18998",
+            "seconds": 8,
+            "ptt": true,
+            "mediaKey": "ZJyGIWnYES1i7H1MJRXoTYvBq5qRrX9ZkqhU7xDYbJA=",
+            "fileEncSha256": "qQBVNI6rVbisDQSNT5yaT35pwWq43yePwgrfipPp+wM=",
+            "directPath": "/v/t62.7117-24/35170237_842099198597935_1117334742606634003_n.enc?ccb=11-4&oh=01_Q5Aa3QFhdYomopQcOeV1MXj9_DqqnsOZitdvFPtD0uiiAhaDQg&oe=6967813C&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1765812353"
+          }
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "5QdQ/5+tgpBmwA47I4rzhFSuKb3a6n4h6ngB5Yq32zs="
+    }
+  },
+  "messageTimestamp": "1765812800",
+  "messageSecret": "5QdQ/5+tgpBmwA47I4rzhFSuKb3a6n4h6ngB5Yq32zs=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4Rwkt0LLzMVpEDyu4ezaFbeX4="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 87 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACB14F72D14817AA0ACA701E2ED8D8E1"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/550486554_1321109263117974_2834471908775246764_n.enc?ccb=11-4&oh=01_Q5Aa3QFaadqtSaU0Jtb25o8iyXjCUpQPy1AwqdNE-cJa_PivKg&oe=69679693&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "Sw3diVn5Tbh9pAsm50jxnsfx5+nBNzkiEAc++c4t91M=",
+      "fileLength": "5911",
+      "seconds": 3,
+      "ptt": true,
+      "mediaKey": "4sYEHl+iKEsovHihwYrOiwLtabhRaA2pqsyncspH7/o=",
+      "fileEncSha256": "C2cRgI6ldL8QSW+dfpNKXm21a9RHTEQBnvB0gEpQFd0=",
+      "directPath": "/v/t62.7117-24/550486554_1321109263117974_2834471908775246764_n.enc?ccb=11-4&oh=01_Q5Aa3QFaadqtSaU0Jtb25o8iyXjCUpQPy1AwqdNE-cJa_PivKg&oe=69679693&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1765812367",
+      "waveform": "AAAABhUfICYjExktNi4rQEE8MC8yNz0/REFBPzcpGAYAMjw/QkZLSkgvMRgTLkxJLxADAQEAAAAAAAAAAAAAAA=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "YMXeQlORkjVtoqs4SGtkWGO398xUOjyjjySx/SMrGOk="
+    }
+  },
+  "messageTimestamp": "1765812368",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202551/PTT-20251215-WA0002.opus"
+  },
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765812369",
+      "readTimestamp": "1765812762",
+      "playedTimestamp": "1765812775"
+    }
+  ],
+  "messageSecret": "YMXeQlORkjVtoqs4SGtkWGO398xUOjyjjySx/SMrGOk=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 88 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC1EB1F81A39DCE05D31DC0B7B77F132"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/35170237_842099198597935_1117334742606634003_n.enc?ccb=11-4&oh=01_Q5Aa3QFhdYomopQcOeV1MXj9_DqqnsOZitdvFPtD0uiiAhaDQg&oe=6967813C&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "B5lPt2KQTTnKi122Tiju2npsH2XP8+zCkeK/mNKxW0w=",
+      "fileLength": "18998",
+      "seconds": 8,
+      "ptt": true,
+      "mediaKey": "ZJyGIWnYES1i7H1MJRXoTYvBq5qRrX9ZkqhU7xDYbJA=",
+      "fileEncSha256": "qQBVNI6rVbisDQSNT5yaT35pwWq43yePwgrfipPp+wM=",
+      "directPath": "/v/t62.7117-24/35170237_842099198597935_1117334742606634003_n.enc?ccb=11-4&oh=01_Q5Aa3QFhdYomopQcOeV1MXj9_DqqnsOZitdvFPtD0uiiAhaDQg&oe=6967813C&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1765812353",
+      "waveform": "AAIAAzQ+MjY8Ii4eBBk7MAEADSIsOigbMh8AAAAAAAAABjA2Ni83L0I8PTsiPyUAAAAsOx8hPDUmIChAFQIAAA=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "5B5XUETp/Q5NKSsyP6DiYBusUU0YmMF4vA77RkBzzLY="
+    }
+  },
+  "messageTimestamp": "1765812360",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202551/PTT-20251215-WA0001.opus"
+  },
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765812361",
+      "readTimestamp": "1765812762",
+      "playedTimestamp": "1765812764"
+    }
+  ],
+  "messageSecret": "5B5XUETp/Q5NKSsyP6DiYBusUU0YmMF4vA77RkBzzLY=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 89 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ACCCC087A491574AD186998B1D6D0358"
+  },
+  "message": {
+    "conversation": "estou indo pra casa agora",
+    "messageContextInfo": {
+      "messageSecret": "Kd27ZiY7nRW9vx+0zF2ogmhf2VNTx5F6/kI4+4Aboms="
+    }
+  },
+  "messageTimestamp": "1765812345",
+  "messageSecret": "Kd27ZiY7nRW9vx+0zF2ogmhf2VNTx5F6/kI4+4Aboms=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5BPoIYrbp4xQebE4VtVZEPnmw="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 90 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ACA8559AACB782BEFE1985A24044EA34"
+  },
+  "message": {
+    "conversation": "estava almoçando com a minha mãe",
+    "messageContextInfo": {
+      "messageSecret": "OSk+o7dCxxf0K9U/5z6LJRsX9WET7Sy1zmw+Gfce17k="
+    }
+  },
+  "messageTimestamp": "1765812339",
+  "messageSecret": "OSk+o7dCxxf0K9U/5z6LJRsX9WET7Sy1zmw+Gfce17k=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7/Eg49s42mgs6pyJrzAUwXEB4="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 91 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC848BE9611A65E244289ED7626E0907"
+  },
+  "message": {
+    "conversation": "Oi pai tudo e com vc?",
+    "messageContextInfo": {
+      "messageSecret": "BloI7Z12USKWL6NqEhrtgiZmLq8GoJmjx7nPDGmsW+E="
+    }
+  },
+  "messageTimestamp": "1765812332",
+  "messageSecret": "BloI7Z12USKWL6NqEhrtgiZmLq8GoJmjx7nPDGmsW+E=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ70P88SFGhWAW7+4j+1uyqhhsc="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 92 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC3B05EE9075E582EF02FA729F1322C4"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/551743991_2001279030719762_6296666448623844940_n.enc?ccb=11-4&oh=01_Q5Aa3QH2PFlPorNR-CG20k6O_AxnNERutq2wQXn9FY9P1WEE8A&oe=69679F96&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "2BR9fNijZOL+TI90NCOztaj3H7DGEDK1hFPi9BGpLtI=",
+      "fileLength": "11356",
+      "seconds": 5,
+      "ptt": true,
+      "mediaKey": "rqNNozm1f+LbK6I4tOL0ZSY93TcFtfTHwoZ837FmsFI=",
+      "fileEncSha256": "5HQmmU32dD4LGWB9kg5toqnvBq7PPLiNUnFN92zYnjs=",
+      "directPath": "/v/t62.7117-24/551743991_2001279030719762_6296666448623844940_n.enc?ccb=11-4&oh=01_Q5Aa3QH2PFlPorNR-CG20k6O_AxnNERutq2wQXn9FY9P1WEE8A&oe=69679F96&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1765812154",
+      "waveform": "AA4MExMSGB44UkcpNVFSPSErKT4sJShNTTAhIRYVEhkeGBAaHhUVHhAMEQ0UEBJBT0MjGx8VRTg8S00oGBYSHA=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "qkTTEbCvlsOi2Fltd97zZW4OydlnycaZqmJtwSkbcds="
+    }
+  },
+  "messageTimestamp": "1765812158",
+  "status": "PLAYED",
+  "messageC2STimestamp": "1765812159",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202551/PTT-20251215-WA0000.opus"
+  },
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765812159",
+      "readTimestamp": "1765812310",
+      "playedTimestamp": "1765812311"
+    }
+  ],
+  "messageSecret": "qkTTEbCvlsOi2Fltd97zZW4OydlnycaZqmJtwSkbcds=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 93 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB02339424FDF6174D9AA"
+  },
+  "message": {
+    "conversation": "*Alan Lucena:*\nOi"
+  },
+  "messageTimestamp": "1765806219",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5J0e7BJ0EuL9hYsYgI/w=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 94 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB02A62DFAC01B010F389"
+  },
+  "message": {
+    "conversation": "Oi"
+  },
+  "messageTimestamp": "1765806215",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ6l6f4cqbN09syDi0IEnA=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 95 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB02AAEE186B8CD8D6D7E"
+  },
+  "message": {
+    "conversation": "Olá! Aqui é da CDS.Supri.\nPara continuar recebendo nossos alertas de rotas, novidades sobre o Moreira e ofertas exclusivas via WhatsApp, precisamos do seu consentimento.\nVocê ainda gostaria de receber nossas comunicações?\nDigite *SIM* para confirmar e continuar recebendo.\nDigite *NÃO* para cancelar e não receber mais mensagens nossas.\nAgradecemos a atenção!"
+  },
+  "messageTimestamp": "1765806120",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4Rl7UupIV91OOhIuZ2Fw=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 96 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB07FB3633C6C98B4846F"
+  },
+  "message": {
+    "conversation": "*Alan Lucena:*\n✨ Desde já agradeço por dedicar um pouco do seu tempo para conhecer como a Moovein Soluções Digitais pode transformar a organização das suas conversas no WhatsApp, otimizar processos comerciais e, como resultado, impulsionar suas vendas 📈\r\n\r\nEstamos à disposição para esclarecer qualquer dúvida que surgir. Conte com a gente! 🤝💬\r\n"
+  },
+  "messageTimestamp": "1765805998",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4xZzKHN4suCyUCEomg0A=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 97 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0386AD31EAFB1394008"
+  },
+  "message": {
+    "conversation": "Aqui é o Alan Lucena do setor de Administrativo, darei sequência no seu atendimento. \n\nSe preferir pode ir adiantando de que forma iremos te ajudar. \n\nEm *breve* muito em *breve* ja iremos conversar. \n\nMuito obrigado por disponibilizar de seu precioso tempo para entrar em contato conosco."
+  },
+  "messageTimestamp": "1765805952",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5M8oziWu6hlLsttF4UCA=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 98 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACB6216A8EF8F58A341C9E2562B3F2EC"
+  },
+  "message": {
+    "conversation": "2",
+    "messageContextInfo": {
+      "messageSecret": "CuHSVP4MB4Sgglykg/810hFgRPpNjlpnI0NpMJd+7FI="
+    }
+  },
+  "messageTimestamp": "1765805935",
+  "status": "READ",
+  "messageC2STimestamp": "1765805951",
+  "userReceipt": [
+    {
+      "userJid": "554391578426@s.whatsapp.net",
+      "receiptTimestamp": "1765805951",
+      "readTimestamp": "1765805972",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "CuHSVP4MB4Sgglykg/810hFgRPpNjlpnI0NpMJd+7FI=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 99 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB05484FA5C8AB38E35E6"
+  },
+  "message": {
+    "conversation": "Bom dia\n\n[1] Vendas\n[2] Administrativo\n"
+  },
+  "messageTimestamp": "1765805926",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7dnDtrlV+RHLFzA+pjtA=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 100 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC143788BCD166E6FEB6120D01478B9B"
+  },
+  "message": {
+    "conversation": "Oi",
+    "messageContextInfo": {
+      "messageSecret": "Z3nIInvH//K7G3h3i6hDj8ye7fGRBpOjtJ131Ps34IA="
+    }
+  },
+  "messageTimestamp": "1765805904",
+  "status": "READ",
+  "messageC2STimestamp": "1765805924",
+  "userReceipt": [
+    {
+      "userJid": "554391578426@s.whatsapp.net",
+      "receiptTimestamp": "1765805925",
+      "readTimestamp": "1765805972",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "Z3nIInvH//K7G3h3i6hDj8ye7fGRBpOjtJ131Ps34IA=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 101 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB007534FDFEF40E050A7"
+  },
+  "message": {
+    "conversation": "Aqui é o Alan Lucena do setor de Administrativo, darei sequência no seu atendimento. \n\nSe preferir pode ir adiantando de que forma iremos te ajudar. \n\nEm *breve* muito em *breve* ja iremos conversar. \n\nMuito obrigado por disponibilizar de seu precioso tempo para entrar em contato conosco."
+  },
+  "messageTimestamp": "1765805367",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ7BmWH20s9wxLcUIboWxA=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 102 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC7670EE56C3E91A0EBA4D3A098130B6"
+  },
+  "message": {
+    "conversation": "2",
+    "messageContextInfo": {
+      "messageSecret": "GVX803YQF9NyEuvCl2rvYKfXbYxjZCUyS9e1TMyDpTk="
+    }
+  },
+  "messageTimestamp": "1765805365",
+  "status": "READ",
+  "messageC2STimestamp": "1765805366",
+  "userReceipt": [
+    {
+      "userJid": "554391578426@s.whatsapp.net",
+      "receiptTimestamp": "1765805366",
+      "readTimestamp": "1765805728",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "GVX803YQF9NyEuvCl2rvYKfXbYxjZCUyS9e1TMyDpTk=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 103 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB040C9B69D962977CDE5"
+  },
+  "message": {
+    "conversation": "Bom dia\n\n[1] Vendas\n[2] Administrativo\n"
+  },
+  "messageTimestamp": "1765805236",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ41s4qeqluhBFTZJOsy8w=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 104 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554391578426@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC563A279A8A3381C5B9984C0D96DC50"
+  },
+  "message": {
+    "conversation": "Oi",
+    "messageContextInfo": {
+      "messageSecret": "+/jxlSRG1B4j2OaLARMPjcpYgnnnOgcA5GPZZw2hA5w="
+    }
+  },
+  "messageTimestamp": "1765805234",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554391578426@s.whatsapp.net",
+      "receiptTimestamp": "1765805234",
+      "readTimestamp": "1765805728",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "+/jxlSRG1B4j2OaLARMPjcpYgnnnOgcA5GPZZw2hA5w=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 105 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC6BD2C120346E96976D6F94306FE324"
+  },
+  "message": {
+    "conversation": "A seu dispor",
+    "messageContextInfo": {
+      "messageSecret": "ijPIVw1dnoOxpP26034XEGolEuOZj8/BHP8WDeTDztY="
+    }
+  },
+  "messageTimestamp": "1765799200",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765799201",
+      "readTimestamp": "1765799374",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "ijPIVw1dnoOxpP26034XEGolEuOZj8/BHP8WDeTDztY=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 106 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB077DDAF1046A31BF850"
+  },
+  "message": {
+    "conversation": "obrigada",
+    "messageContextInfo": {
+      "messageSecret": "s3oHvwjYuDtXSA5uV0IKnUwVYRHeg3vsZoQt+WYsbMU="
+    }
+  },
+  "messageTimestamp": "1765799171",
+  "messageSecret": "s3oHvwjYuDtXSA5uV0IKnUwVYRHeg3vsZoQt+WYsbMU=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ756b6hTrPJiRZQ9s+16VHWXlk="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 107 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0C3F4B0865A6F841649"
+  },
+  "message": {
+    "conversation": "1 281 777 796",
+    "messageContextInfo": {
+      "messageSecret": "BiXKSyleC55VcrFXFt2fO2nOlYGjP34mUAuSPVrWvA0="
+    }
+  },
+  "messageTimestamp": "1765798922",
+  "messageSecret": "BiXKSyleC55VcrFXFt2fO2nOlYGjP34mUAuSPVrWvA0=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ5pUE4sQ/Txym9LZplRaNwRaXg="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 108 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC70E52EFA98CDB0FEF0571AF4E57019"
+  },
+  "message": {
+    "conversation": "Posso",
+    "messageContextInfo": {
+      "messageSecret": "oFCK2zuAJtNWpNxga7Ms9af9Kw62twP59RUb0XeJr3M="
+    }
+  },
+  "messageTimestamp": "1765798916",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765798916",
+      "readTimestamp": "1765798917",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "oFCK2zuAJtNWpNxga7Ms9af9Kw62twP59RUb0XeJr3M=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 109 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0A200DFADB790E537F6"
+  },
+  "message": {
+    "conversation": "vc pode ver cad por favor",
+    "messageContextInfo": {
+      "messageSecret": "5lCxKSkgsd/R8wvMqxakDteTRPubBe+7sJBelMEN284="
+    }
+  },
+  "messageTimestamp": "1765798856",
+  "messageSecret": "5lCxKSkgsd/R8wvMqxakDteTRPubBe+7sJBelMEN284=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4OSBYH9okZd4D/dNa0lAvSa6U="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 110 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC1004225DB1832633E9E8699665CB70"
+  },
+  "message": {
+    "conversation": "Tudo bem",
+    "messageContextInfo": {
+      "messageSecret": "pm8XevbN0LwOOLGa9bKD1oAG4zSV29/nh21HdY3y/fo="
+    }
+  },
+  "messageTimestamp": "1765798782",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765798783",
+      "readTimestamp": "1765798839",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "pm8XevbN0LwOOLGa9bKD1oAG4zSV29/nh21HdY3y/fo=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 111 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC9BA70C0B3E1454943ED95401C14236"
+  },
+  "message": {
+    "conversation": "Oi",
+    "messageContextInfo": {
+      "messageSecret": "LldiZWrSvDAMqEuUuHYrhfQN5i7H/+6RDHU4TFiyVRA="
+    }
+  },
+  "messageTimestamp": "1765798778",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765798779",
+      "readTimestamp": "1765798839",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "LldiZWrSvDAMqEuUuHYrhfQN5i7H/+6RDHU4TFiyVRA=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 112 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0C86B890C9DDB05281A"
+  },
+  "message": {
+    "conversation": "Oi, só vi hj cedo a mensagem.",
+    "messageContextInfo": {
+      "messageSecret": "3Y2/7AswPuVUU3oqa/DhNa26bD9aw0Vuu7gXJwb3keE="
+    }
+  },
+  "messageTimestamp": "1765797507",
+  "messageSecret": "3Y2/7AswPuVUU3oqa/DhNa26bD9aw0Vuu7gXJwb3keE=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ4VXFCMcfqZtlmTBTIrGmsc9RU="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 113 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC4D02979A3DE9584ECBCCFD3FC72C00"
+  },
+  "message": {
+    "conversation": "Se o yeshua estiver aí avisa que eu acabei de chegar por favor",
+    "messageContextInfo": {
+      "messageSecret": "OUUFfQR7/Oy5jsqWRkwPZormzkyRIw7/y0L5Bm0V3wQ="
+    }
+  },
+  "messageTimestamp": "1765761319",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765761321",
+      "readTimestamp": "1765797110",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "OUUFfQR7/Oy5jsqWRkwPZormzkyRIw7/y0L5Bm0V3wQ=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 114 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399792513@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACF10D0012F9D016A24AE02B3A137850"
+  },
+  "message": {
+    "conversation": "Oi",
+    "messageContextInfo": {
+      "messageSecret": "V2buax+ZPFmIlwVkIGR0eTbEju8kyhdu6+ACOQRniME="
+    }
+  },
+  "messageTimestamp": "1765761294",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399792513@s.whatsapp.net",
+      "receiptTimestamp": "1765761298",
+      "readTimestamp": "1765797110",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "V2buax+ZPFmIlwVkIGR0eTbEju8kyhdu6+ACOQRniME=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 115 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A5956AD19B1C28C2FFB2D3B95107BB70"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/554964263_681708854877655_5057505363724732117_n.enc?ccb=11-4&oh=01_Q5Aa3QFVqc0YiEr2R2gZE6JN5WjkNLGB-Wr-SZgAXnxd-3WUfQ&oe=696568ED&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "Afp1tPPczt6h16ESiw1GEybuNGalM/fCTDSLJPGvCLM=",
+      "fileLength": "86122",
+      "height": 1280,
+      "width": 720,
+      "mediaKey": "u7e6kpcPO0aHNAfG+hwfzeZJE2RDtJRb3wV7qWNEjtA=",
+      "fileEncSha256": "fa1r3RAh0MMfayQrkHzJ2hPuXgg0T81Ksf9BTcDlDww=",
+      "directPath": "/v/t62.7118-24/554964263_681708854877655_5057505363724732117_n.enc?ccb=11-4&oh=01_Q5Aa3QFVqc0YiEr2R2gZE6JN5WjkNLGB-Wr-SZgAXnxd-3WUfQ&oe=696568ED&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1765670330",
+      "contextInfo": {
+        "pairedMediaType": "NOT_PAIRED_MEDIA"
+      },
+      "scansSidecar": "J7BBs+Wsby9tNc3cotlLL76YulV/fBTp0euXNBEQUsI9qPv6iEXVoA==",
+      "scanLengths": [
+        10571,
+        31428,
+        16783,
+        27340
+      ],
+      "midQualityFileSha256": "XND2QshxYHTOqvkrBVqYnGLv/fuOMimDlEeidbSbnAM="
+    }
+  },
+  "messageTimestamp": "1765670331",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ262x1xy1XXy3OHp37CmYXjLQY="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 116 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC0881DF0779114402264679CCAE7D5B"
+  },
+  "message": {
+    "conversation": "Depois não reclama ok e nem vem se passar por vítima."
+  },
+  "messageTimestamp": "1765669031",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554398215597@s.whatsapp.net",
+      "receiptTimestamp": "1765669032",
+      "readTimestamp": "1765670264",
+      "playedTimestamp": "0"
+    }
+  ],
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 117 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACD219E326E54E4415D762AFFEEC9377"
+  },
+  "message": {
+    "conversation": "Esse é o nosso combinado"
+  },
+  "messageTimestamp": "1765664821",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554398215597@s.whatsapp.net",
+      "receiptTimestamp": "1765664822",
+      "readTimestamp": "1765670264",
+      "playedTimestamp": "0"
+    }
+  ],
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 118 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC66340373C71F93DB7CFB4DFAF43E1A"
+  },
+  "message": {
+    "conversation": "Somente em mulher"
+  },
+  "messageTimestamp": "1765664813",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554398215597@s.whatsapp.net",
+      "receiptTimestamp": "1765664814",
+      "readTimestamp": "1765670264",
+      "playedTimestamp": "0"
+    }
+  ],
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 119 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A55B99850D13082881178623735CE06F"
+  },
+  "message": {
+    "conversation": "Pois eh pensando em nós em ganhar dinheiro vim pra trabalhar mas tudo bem"
+  },
+  "messageTimestamp": "1765664792",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ1kSfGIKI+V5QmPesKSY+Aq3nI="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 120 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC5E0A75C40CEEECE94F805E8325374C"
+  },
+  "message": {
+    "conversation": "Mas como sempre tu faz tudo como você quer fazer"
+  },
+  "messageTimestamp": "1765664639",
+  "status": "READ",
+  "messageC2STimestamp": "1765664640",
+  "userReceipt": [
+    {
+      "userJid": "554398215597@s.whatsapp.net",
+      "receiptTimestamp": "1765664640",
+      "readTimestamp": "1765664645",
+      "playedTimestamp": "0"
+    }
+  ],
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 121 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC20E9C0C8EE09A7A872897494826805"
+  },
+  "message": {
+    "conversation": "Já conversamos sobre isso neh"
+  },
+  "messageTimestamp": "1765664610",
+  "status": "READ",
+  "messageC2STimestamp": "1765664611",
+  "userReceipt": [
+    {
+      "userJid": "554398215597@s.whatsapp.net",
+      "receiptTimestamp": "1765664611",
+      "readTimestamp": "1765664645",
+      "playedTimestamp": "0"
+    }
+  ],
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 122 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A598088AF91186D8E1CA49FBE874D21A"
+  },
+  "message": {
+    "conversation": "Vou fazer só a perna do tio",
+    "messageContextInfo": {
+      "messageSecret": "w6V4ZahvhvkSRnTvrOBHdmYpjGTtd7Lau6zotHIDv9w="
+    }
+  },
+  "messageTimestamp": "1765664520",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "15049817067771@lid",
+        "fromMe": true,
+        "id": "AC9661A1BE5800E5259ACF9858CF1883"
+      },
+      "text": "😏",
+      "senderTimestampMs": "1765664562249",
+      "unread": true
+    }
+  ],
+  "messageSecret": "w6V4ZahvhvkSRnTvrOBHdmYpjGTtd7Lau6zotHIDv9w=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ1yynYdfh0+lqp5YnAKU5B3Y9M="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 123 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554398215597@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A570A671724C766B26AE59F63C1CD21E"
+  },
+  "message": {
+    "conversation": "Terminei uma",
+    "messageContextInfo": {
+      "messageSecret": "EAbf+SPuMKQR0G1ngndeBHbw/3vigwBuiab9Rlh9QlU="
+    }
+  },
+  "messageTimestamp": "1765664515",
+  "messageSecret": "EAbf+SPuMKQR0G1ngndeBHbw/3vigwBuiab9Rlh9QlU=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ3zQTUSCykr1gg+2YIh91E90QE="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 124 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC9B6B720214BB29F82557F78FEC9463"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "de nada",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "AC2F295E735270EACAD9ADD618F88DD3",
+        "participant": "554391537577@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Muito obrigado filho"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "5XPel/mcKEXR0hIasrwGTqa6wljYZeqE+Ufi8GF2QlQ="
+    }
+  },
+  "messageTimestamp": "1765660710",
+  "messageSecret": "5XPel/mcKEXR0hIasrwGTqa6wljYZeqE+Ufi8GF2QlQ=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ3cDHGjMYqfPmzYrQJ8fJBFwPQ="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 125 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC9FDF9620E567A35AB69943FDD26DA2"
+  },
+  "message": {
+    "conversation": "tbm te te amo muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito muito",
+    "messageContextInfo": {
+      "messageSecret": "CWWRawaivnM/zROHmemxTXBeSNt1jETB6T5WqT6e4BE="
+    }
+  },
+  "messageTimestamp": "1765660707",
+  "messageSecret": "CWWRawaivnM/zROHmemxTXBeSNt1jETB6T5WqT6e4BE=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ3uM2moJmxWxkpT7Jn15UomAB4="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 126 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC029402CF0E9982D2B1B5E9F2133170"
+  },
+  "message": {
+    "conversation": "Te amo",
+    "messageContextInfo": {
+      "messageSecret": "8Wz05tZqf/zohjpLPOtHk6Gm0o8FxMP5tw9bWKN3EWM="
+    }
+  },
+  "messageTimestamp": "1765660323",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765660324",
+      "readTimestamp": "1765660702",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "8Wz05tZqf/zohjpLPOtHk6Gm0o8FxMP5tw9bWKN3EWM=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 127 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC2F295E735270EACAD9ADD618F88DD3"
+  },
+  "message": {
+    "conversation": "Muito obrigado filho",
+    "messageContextInfo": {
+      "messageSecret": "F0ai4sdPBS4nCx9SlF87CiNYMrv89Txk5d58uLpGVLs="
+    }
+  },
+  "messageTimestamp": "1765660319",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765660319",
+      "readTimestamp": "1765660702",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "F0ai4sdPBS4nCx9SlF87CiNYMrv89Txk5d58uLpGVLs=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 128 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC7F8B80C00DD2FA90B4504CBB6AD8E6"
+  },
+  "message": {
+    "conversation": "Amanhã papai já estará de volta",
+    "messageContextInfo": {
+      "messageSecret": "daby35k0gDe+tqFaJJAr6r3pKve6N1Dd/xv1YKkycnY="
+    }
+  },
+  "messageTimestamp": "1765660314",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765660314",
+      "readTimestamp": "1765660702",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "252896297893914@lid",
+        "fromMe": false,
+        "id": "AC34006F41F5A3487531DEC1F18B091B"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1765660712826"
+    }
+  ],
+  "messageSecret": "daby35k0gDe+tqFaJJAr6r3pKve6N1Dd/xv1YKkycnY=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 129 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACCEB8EB29860471271DF781D58A6FA5"
+  },
+  "message": {
+    "conversation": "Achei que ela tinha ficado pra dentro por causa dos trovões",
+    "messageContextInfo": {
+      "messageSecret": "p+P/Tglaqa4nXj1jDX3SHqVMjN1EAwxf5143lPA+nc8="
+    }
+  },
+  "messageTimestamp": "1765660305",
+  "status": "READ",
+  "messageC2STimestamp": "1765660306",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765660306",
+      "readTimestamp": "1765660702",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "p+P/Tglaqa4nXj1jDX3SHqVMjN1EAwxf5143lPA+nc8=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 130 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC96575BC49DC9E372831A3BF44CB4A4"
+  },
+  "message": {
+    "conversation": "Glória a Deus",
+    "messageContextInfo": {
+      "messageSecret": "7gaHpD+JTdARzMV9Q3tlrE3/qaDwJmKwrm1al/i+yZc="
+    }
+  },
+  "messageTimestamp": "1765660289",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765660289",
+      "readTimestamp": "1765660702",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "7gaHpD+JTdARzMV9Q3tlrE3/qaDwJmKwrm1al/i+yZc=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 131 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC630E257F1E1D58A7F8DDF6BD8575B1"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "pra fora",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "AC470BD75D74F7CAA1AE718FB48A3263",
+        "participant": "554391537577@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ela está pra fora ou dentro de casa?"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "ZiEUDnKc7O0m6izaIgfz7GK5NVTR3ihMyhnsAirEenw="
+    }
+  },
+  "messageTimestamp": "1765660280",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "252896297893914@lid",
+        "fromMe": true,
+        "id": "AC9C1C9287BA7115166F92EBC3105AD5"
+      },
+      "text": "🙏",
+      "senderTimestampMs": "1765660284974",
+      "unread": true
+    }
+  ],
+  "messageSecret": "ZiEUDnKc7O0m6izaIgfz7GK5NVTR3ihMyhnsAirEenw=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ0XoBP7OThAl3WXfhjpueR6P54="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 132 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ACA061252AA05FFD837AD6C745F7F1AD"
+  },
+  "message": {
+    "conversation": "hj não choveu tanto",
+    "messageContextInfo": {
+      "messageSecret": "0ug5r4BqBTT6qRjRzHFtM1kW03O1XtlgdxTO9TdTElc="
+    }
+  },
+  "messageTimestamp": "1765660257",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "252896297893914@lid",
+        "fromMe": true,
+        "id": "AC7E67FB90D2BC2F09A104692DD0F65A"
+      },
+      "text": "🙏",
+      "senderTimestampMs": "1765660262453",
+      "unread": true
+    }
+  ],
+  "messageSecret": "0ug5r4BqBTT6qRjRzHFtM1kW03O1XtlgdxTO9TdTElc=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ02udVAtNAbKteXFZZ7iIjOhV0="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 133 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC1CAF6C04963D21D488B34247040FD0"
+  },
+  "message": {
+    "conversation": "Choveu muito forte aí?",
+    "messageContextInfo": {
+      "messageSecret": "0F0PgrucofvsXXIw0goW50Bsf3P4n7sE15jSs5TuAq8="
+    }
+  },
+  "messageTimestamp": "1765660237",
+  "status": "READ",
+  "messageC2STimestamp": "1765660238",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1765660238",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "0F0PgrucofvsXXIw0goW50Bsf3P4n7sE15jSs5TuAq8=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 134 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC608912077741583AA6B1F75364F2BC"
+  },
+  "message": {
+    "conversation": "Fui sim",
+    "messageContextInfo": {
+      "messageSecret": "9FIF2+JOLhfDAqkf1ivULdVftG/mkFr+EXVtIDAYcgM="
+    }
+  },
+  "messageTimestamp": "1765660236",
+  "messageSecret": "9FIF2+JOLhfDAqkf1ivULdVftG/mkFr+EXVtIDAYcgM=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ0SxU74ODzACl4lRUj3G1toAQQ="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 135 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ACCBDC4D366B50CE40D77C4E0B4F1A56"
+  },
+  "message": {
+    "conversation": "oi pai",
+    "messageContextInfo": {
+      "messageSecret": "ugy3u7cabZZRp5e3zpFEufTn/UCeIH2l92Ox5CsdTys="
+    }
+  },
+  "messageTimestamp": "1765660213",
+  "messageSecret": "ugy3u7cabZZRp5e3zpFEufTn/UCeIH2l92Ox5CsdTys=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ0dN2rtC7knGI6p6No78DanKTo="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 136 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "AC470BD75D74F7CAA1AE718FB48A3263"
+  },
+  "message": {
+    "conversation": "Ela está pra fora ou dentro de casa?",
+    "messageContextInfo": {
+      "messageSecret": "Fo43Aczk5BvO5tAUPNZAVUL98zaiOR0JdextXzihU7Y="
+    }
+  },
+  "messageTimestamp": "1765660177",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765660177",
+      "readTimestamp": "1765660209",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "Fo43Aczk5BvO5tAUPNZAVUL98zaiOR0JdextXzihU7Y=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 137 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACD9631E7BC1AC232D2CDF4C2E618325"
+  },
+  "message": {
+    "conversation": "Foi la?",
+    "messageContextInfo": {
+      "messageSecret": "yK4UHo5Npiruie7+wnkb7/7vKTQZ7pyIBK/7U/ZgXgY="
+    }
+  },
+  "messageTimestamp": "1765660148",
+  "status": "READ",
+  "messageC2STimestamp": "1765660149",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765660149",
+      "readTimestamp": "1765660209",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "yK4UHo5Npiruie7+wnkb7/7vKTQZ7pyIBK/7U/ZgXgY=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 138 de 138
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554399894344@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ACA37DADE5893F700AA8C4BE1BA30AA0"
+  },
+  "message": {
+    "conversation": "Boa noite filho",
+    "messageContextInfo": {
+      "messageSecret": "et3mnfxLaH6bCsihfDihDpqHdwlcYNdn8nnguU3gZCs="
+    }
+  },
+  "messageTimestamp": "1765660144",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "554399894344@s.whatsapp.net",
+      "receiptTimestamp": "1765660144",
+      "readTimestamp": "1765660209",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "et3mnfxLaH6bCsihfDihDpqHdwlcYNdn8nnguU3gZCs=",
+  "originalSelfAuthorUserJidString": "554391537577@s.whatsapp.net",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 

@@ -1,0 +1,28 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: TESTE
+  Whatsapp Id: 3
+  Criação do arquivo de logs: 17/12/2025 11:19:14
+  Selecionado Data de inicio de importação: 17/12/2023 11:18:00
+  Selecionado Data final da importação: 17/12/2025 11:16:00
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 11/12/2025 16:09:06
+  Contato da Mensagem : 0@s.whatsapp.net
+  Tipo da mensagem : videoMessage
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 11/12/2025 16:15:04
+  Contato da Mensagem : 78971597271125@lid
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 11/12/2025 16:09:06
+  Contato da Mensagem : 0@s.whatsapp.net
+  Tipo da mensagem : videoMessage
+
+   

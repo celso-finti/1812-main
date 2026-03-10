@@ -1,0 +1,61 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: TESTE
+    Whatsapp Id: 3
+    Criação do arquivo de logs: 17/12/2025 11:20:01
+    Selecionado Data de inicio de importação: 17/12/2023 11:18:00 
+    Selecionado Data final da importação: 17/12/2025 11:16:00 
+     
+
+Mensagem 1 de 2
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "78971597271125@lid",
+    "fromMe": false,
+    "id": "8B1FD4287D29038C19"
+  },
+  "message": {
+    "conversation": "91368 é seu código de confirmação do Facebook"
+  },
+  "messageTimestamp": "1765480504",
+  "reportingTokenInfo": {
+    "reportingTag": "AQ3zpIIFljQwEM+6f/+P7w=="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 2
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "0@s.whatsapp.net",
+    "fromMe": false,
+    "id": "785376054348615-1"
+  },
+  "message": {
+    "videoMessage": {
+      "mimetype": "video/mp4",
+      "fileSha256": "hqSDs8DFzeM0UERgbtkT/PPTciYEnjoeMGD0Bp0mh4g=",
+      "fileLength": "6564967",
+      "seconds": 6,
+      "mediaKey": "AzcrSIG5IOaekXD5ry6PG4pZPcwwUxgwpHcRkyfx3Gw=",
+      "caption": "*Conheça o WhatsApp Business* 🤩\n\nParabéns por melhorar ainda mais sua empresa! Agora, você pode acessar nossas ferramentas poderosas, como os catálogos, o Meta Verified e as mensagens automáticas, que ajudam você a:\n\n👋 Alcançar mais clientes\n\n🏃 Responder mais rápido\n\n📈 Aumentar as vendas\n\nQuando o assunto é crescimento, o WhatsApp é muito mais negócio. Acesse a aba Ferramentas para saber mais e começar.",
+      "height": 2314,
+      "width": 2196,
+      "fileEncSha256": "zsOPXJwY0lBct0BZGMlGxfUWFn+c2kpM+4U4oArBFsQ=",
+      "contextInfo": {
+        "pairedMediaType": "NOT_PAIRED_MEDIA"
+      },
+      "staticUrl": "https://static.whatsapp.net/downloadable?category=PSA&id=427974683292983656&num=2d5071a0-b969-4811-b597-38abba45a0f9&_nc_cat=1"
+    },
+    "messageContextInfo": {
+      "messageSecret": "OoBC1EYkR3FSji2yjav1CDMkenkkZlsMnFn8puHONQM="
+    }
+  },
+  "messageTimestamp": "1765480146",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Video/Private/VID-20251211-WA0000.mp4"
+  },
+  "messageSecret": "OoBC1EYkR3FSji2yjav1CDMkenkkZlsMnFn8puHONQM=",
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
